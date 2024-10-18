@@ -1,0 +1,2001 @@
+Brand,Model Name,Processor,RAM Size,Storage Type,Storage Size,Screen Size,Price
+Lenovo,Model-955,Intel i5,32,HDD,512,17.3,850
+MSI,Model-381,Intel i3,16,HDD,256,17.3,850
+Microsoft,Model-116,Intel i5,8,SSD,256,17.3,850
+Apple,Model-270,AMD Ryzen 7,4,SSD,256,15.6,850
+Acer,Model-964,Intel i5,8,HDD,2048,13.3,1200
+MSI,Model-989,AMD Ryzen 7,16,HDD,1024,14.0,1000
+Dell,Model-889,Intel i3,8,SSD,2048,14.0,1500
+MSI,Model-887,Intel i5,16,SSD,2048,14.0,500
+Dell,Model-451,Intel i5,32,SSD,2048,14.0,1200
+Dell,Model-124,Intel i5,32,SSD,2048,17.3,750
+Apple,Model-816,AMD Ryzen 5,4,SSD,512,13.3,850
+Asus,Model-992,Intel i3,4,HDD,1024,17.3,500
+MSI,Model-505,Intel i3,16,HDD,512,17.3,2000
+Dell,Model-430,Intel i3,16,HDD,256,15.6,1200
+Dell,Model-488,Intel i7,4,HDD,1024,15.6,750
+Microsoft,Model-572,AMD Ryzen 5,4,HDD,256,15.6,850
+HP,Model-379,AMD Ryzen 7,16,SSD,256,14.0,1200
+Acer,Model-255,Intel i5,16,HDD,2048,15.6,1200
+Acer,Model-331,Intel i7,8,HDD,2048,17.3,2000
+Apple,Model-567,AMD Ryzen 5,16,HDD,2048,15.6,600
+HP,Model-576,AMD Ryzen 5,4,HDD,1024,17.3,1500
+Acer,Model-489,Intel i7,4,HDD,256,13.3,500
+Microsoft,Model-902,Intel i3,16,SSD,1024,14.0,1200
+Asus,Model-180,Intel i3,16,SSD,512,17.3,1200
+Apple,Model-996,Intel i3,8,HDD,256,17.3,600
+Lenovo,Model-220,Intel i3,4,HDD,256,15.6,500
+Dell,Model-708,AMD Ryzen 5,4,HDD,512,14.0,500
+Asus,Model-695,AMD Ryzen 5,8,HDD,1024,17.3,2000
+Microsoft,Model-384,AMD Ryzen 7,8,SSD,512,13.3,2000
+HP,Model-911,Intel i5,32,HDD,1024,14.0,1200
+Dell,Model-479,Intel i5,4,HDD,512,15.6,1200
+Lenovo,Model-681,Intel i5,16,SSD,2048,13.3,1000
+Apple,Model-826,AMD Ryzen 7,32,SSD,256,13.3,1200
+Dell,Model-198,Intel i3,8,SSD,1024,13.3,850
+Lenovo,Model-143,Intel i3,16,SSD,256,13.3,1000
+Microsoft,Model-458,AMD Ryzen 5,16,HDD,256,17.3,1500
+Lenovo,Model-682,Intel i3,4,SSD,2048,13.3,850
+Lenovo,Model-411,AMD Ryzen 5,8,SSD,2048,13.3,750
+HP,Model-973,AMD Ryzen 5,32,SSD,256,13.3,600
+Acer,Model-574,AMD Ryzen 7,32,SSD,256,14.0,750
+Microsoft,Model-890,Intel i7,8,SSD,2048,15.6,600
+Acer,Model-676,AMD Ryzen 5,8,HDD,2048,13.3,750
+Asus,Model-156,Intel i5,16,HDD,2048,13.3,600
+Dell,Model-409,Intel i3,32,SSD,512,15.6,1200
+Dell,Model-703,AMD Ryzen 5,4,SSD,2048,15.6,1000
+Microsoft,Model-227,Intel i7,8,HDD,1024,14.0,1000
+Apple,Model-499,Intel i3,4,SSD,2048,13.3,1500
+Asus,Model-827,Intel i7,32,SSD,256,14.0,500
+Acer,Model-165,Intel i3,4,SSD,256,13.3,1200
+Dell,Model-567,AMD Ryzen 5,8,SSD,256,17.3,1200
+HP,Model-491,Intel i5,4,HDD,256,15.6,1200
+HP,Model-957,Intel i5,32,SSD,2048,15.6,500
+Asus,Model-296,AMD Ryzen 7,4,SSD,2048,17.3,850
+Acer,Model-180,Intel i5,32,HDD,2048,15.6,1500
+Lenovo,Model-937,Intel i7,16,HDD,512,13.3,1500
+MSI,Model-733,Intel i5,32,HDD,2048,14.0,750
+Dell,Model-134,AMD Ryzen 7,4,HDD,2048,17.3,1500
+HP,Model-828,AMD Ryzen 7,16,SSD,512,17.3,1200
+Dell,Model-381,Intel i3,32,SSD,1024,17.3,500
+Lenovo,Model-708,AMD Ryzen 7,8,HDD,2048,14.0,750
+HP,Model-438,AMD Ryzen 7,4,SSD,512,15.6,850
+Asus,Model-562,Intel i7,4,HDD,256,17.3,750
+Microsoft,Model-101,AMD Ryzen 7,8,HDD,256,17.3,1500
+Acer,Model-262,AMD Ryzen 5,8,HDD,2048,13.3,1200
+Apple,Model-643,Intel i7,4,HDD,256,14.0,2000
+Lenovo,Model-211,Intel i7,32,HDD,1024,17.3,750
+Acer,Model-430,AMD Ryzen 7,16,HDD,1024,15.6,1000
+Asus,Model-605,AMD Ryzen 7,4,HDD,1024,17.3,2000
+Microsoft,Model-977,AMD Ryzen 5,32,HDD,1024,14.0,1200
+Apple,Model-759,Intel i7,4,HDD,1024,14.0,2000
+Asus,Model-307,Intel i5,8,HDD,2048,13.3,1500
+Microsoft,Model-577,AMD Ryzen 7,8,SSD,512,15.6,1000
+Dell,Model-852,Intel i3,4,SSD,512,13.3,600
+Acer,Model-763,Intel i7,8,HDD,512,13.3,750
+Asus,Model-200,Intel i3,8,HDD,2048,15.6,850
+HP,Model-245,AMD Ryzen 7,4,SSD,512,14.0,500
+MSI,Model-295,Intel i3,16,SSD,2048,14.0,750
+Lenovo,Model-518,Intel i7,32,HDD,512,15.6,1500
+Acer,Model-351,Intel i5,32,SSD,512,13.3,1000
+Apple,Model-870,Intel i3,16,SSD,1024,13.3,850
+Asus,Model-399,AMD Ryzen 5,32,SSD,256,13.3,1200
+HP,Model-226,Intel i3,16,SSD,512,13.3,850
+Apple,Model-777,Intel i7,16,SSD,512,13.3,1500
+Acer,Model-587,Intel i3,8,HDD,512,17.3,1500
+Asus,Model-602,Intel i5,8,HDD,1024,13.3,850
+Microsoft,Model-162,Intel i7,16,HDD,2048,17.3,750
+Lenovo,Model-784,AMD Ryzen 5,32,HDD,512,17.3,1200
+Apple,Model-251,AMD Ryzen 5,4,SSD,512,17.3,1500
+Dell,Model-339,Intel i7,32,HDD,256,14.0,850
+HP,Model-323,AMD Ryzen 7,32,HDD,2048,14.0,750
+Dell,Model-353,Intel i3,16,HDD,256,14.0,1200
+Apple,Model-350,Intel i7,8,SSD,1024,13.3,500
+HP,Model-607,Intel i5,16,SSD,256,17.3,1000
+Dell,Model-170,Intel i3,4,SSD,512,13.3,750
+Microsoft,Model-421,Intel i7,32,SSD,2048,14.0,1000
+Acer,Model-622,AMD Ryzen 7,8,SSD,512,17.3,500
+Apple,Model-473,AMD Ryzen 5,32,SSD,256,15.6,2000
+Apple,Model-151,Intel i3,8,HDD,256,17.3,850
+Microsoft,Model-591,Intel i3,16,SSD,256,14.0,600
+Microsoft,Model-428,Intel i3,32,HDD,1024,14.0,1200
+HP,Model-606,Intel i7,32,HDD,256,17.3,600
+Acer,Model-118,Intel i7,4,HDD,2048,17.3,1200
+Microsoft,Model-105,AMD Ryzen 5,32,SSD,1024,17.3,850
+Dell,Model-867,AMD Ryzen 5,8,HDD,512,13.3,750
+Asus,Model-555,AMD Ryzen 5,8,HDD,1024,15.6,1000
+Lenovo,Model-775,Intel i5,8,HDD,256,13.3,1500
+Lenovo,Model-169,Intel i3,16,HDD,512,15.6,2000
+HP,Model-130,Intel i5,32,HDD,1024,13.3,1500
+Lenovo,Model-569,AMD Ryzen 7,4,HDD,512,15.6,600
+Dell,Model-502,AMD Ryzen 7,16,SSD,256,13.3,850
+Microsoft,Model-824,Intel i3,8,SSD,2048,15.6,750
+Acer,Model-945,Intel i5,16,SSD,512,15.6,2000
+Lenovo,Model-209,Intel i3,32,SSD,512,14.0,600
+HP,Model-253,Intel i7,4,SSD,256,14.0,850
+MSI,Model-120,Intel i5,32,SSD,256,14.0,1000
+HP,Model-125,Intel i7,8,HDD,256,13.3,850
+HP,Model-405,AMD Ryzen 5,16,SSD,256,13.3,1200
+Acer,Model-973,Intel i5,32,HDD,512,15.6,2000
+Microsoft,Model-330,Intel i7,4,HDD,256,15.6,2000
+Microsoft,Model-977,AMD Ryzen 7,8,HDD,1024,13.3,750
+Dell,Model-935,AMD Ryzen 5,16,HDD,2048,14.0,500
+Dell,Model-758,AMD Ryzen 7,16,HDD,512,15.6,1000
+Dell,Model-490,Intel i3,16,SSD,256,13.3,1200
+MSI,Model-197,AMD Ryzen 5,32,HDD,1024,13.3,750
+HP,Model-856,Intel i7,32,SSD,512,15.6,850
+Apple,Model-352,AMD Ryzen 5,4,HDD,1024,13.3,850
+Apple,Model-835,Intel i3,4,SSD,512,14.0,500
+MSI,Model-954,Intel i3,16,HDD,256,17.3,1500
+Acer,Model-349,Intel i5,4,SSD,2048,15.6,1000
+Asus,Model-383,AMD Ryzen 7,4,HDD,1024,17.3,1500
+Lenovo,Model-605,Intel i3,8,HDD,2048,14.0,1500
+Apple,Model-483,Intel i7,16,HDD,256,13.3,600
+Dell,Model-831,AMD Ryzen 7,32,HDD,256,13.3,850
+Dell,Model-398,Intel i3,32,HDD,512,14.0,500
+Microsoft,Model-354,Intel i5,8,SSD,2048,14.0,1500
+Lenovo,Model-583,Intel i7,16,HDD,512,15.6,600
+Microsoft,Model-356,Intel i7,16,SSD,256,14.0,750
+Dell,Model-662,Intel i5,32,HDD,1024,17.3,1500
+Asus,Model-207,Intel i3,32,HDD,2048,14.0,850
+Dell,Model-611,Intel i3,32,SSD,512,13.3,750
+Acer,Model-822,AMD Ryzen 5,8,HDD,1024,15.6,600
+HP,Model-436,AMD Ryzen 5,32,SSD,512,14.0,750
+Microsoft,Model-595,AMD Ryzen 5,16,SSD,1024,17.3,1500
+MSI,Model-727,Intel i3,4,HDD,256,13.3,850
+HP,Model-822,Intel i5,16,SSD,512,17.3,850
+Asus,Model-557,Intel i3,4,SSD,512,13.3,1500
+Apple,Model-890,Intel i7,8,HDD,2048,13.3,750
+Dell,Model-690,Intel i5,32,HDD,1024,17.3,1200
+Acer,Model-636,Intel i5,32,HDD,512,15.6,600
+Acer,Model-119,Intel i7,4,SSD,256,15.6,850
+Dell,Model-537,AMD Ryzen 5,16,SSD,2048,15.6,1200
+Lenovo,Model-632,Intel i3,32,SSD,512,13.3,2000
+MSI,Model-357,Intel i3,16,SSD,256,15.6,500
+Microsoft,Model-580,Intel i7,32,HDD,512,15.6,750
+HP,Model-358,AMD Ryzen 5,32,SSD,256,13.3,1500
+Acer,Model-109,Intel i7,4,HDD,512,15.6,750
+Asus,Model-495,Intel i7,32,HDD,2048,17.3,600
+Dell,Model-985,Intel i7,32,SSD,256,14.0,1000
+HP,Model-441,Intel i7,4,HDD,1024,13.3,850
+Apple,Model-402,Intel i3,32,HDD,512,17.3,850
+MSI,Model-554,Intel i3,32,SSD,256,15.6,750
+Dell,Model-837,AMD Ryzen 7,16,SSD,2048,14.0,600
+Apple,Model-817,AMD Ryzen 5,4,SSD,512,13.3,750
+Dell,Model-714,AMD Ryzen 5,8,SSD,2048,13.3,1200
+Lenovo,Model-946,AMD Ryzen 7,16,HDD,1024,17.3,850
+Lenovo,Model-567,AMD Ryzen 7,16,SSD,1024,13.3,1000
+MSI,Model-721,AMD Ryzen 7,8,HDD,2048,17.3,850
+Microsoft,Model-529,AMD Ryzen 7,16,HDD,2048,13.3,2000
+Dell,Model-532,AMD Ryzen 7,4,SSD,512,13.3,1200
+MSI,Model-580,Intel i7,8,SSD,512,14.0,600
+MSI,Model-805,AMD Ryzen 5,32,HDD,1024,15.6,2000
+Dell,Model-863,AMD Ryzen 7,4,HDD,1024,13.3,600
+Asus,Model-617,Intel i5,4,SSD,256,14.0,750
+Asus,Model-301,AMD Ryzen 7,32,HDD,1024,14.0,500
+Apple,Model-612,Intel i5,16,HDD,2048,14.0,1200
+Microsoft,Model-884,AMD Ryzen 5,8,SSD,256,14.0,1000
+Lenovo,Model-942,Intel i5,32,HDD,256,17.3,850
+Dell,Model-891,AMD Ryzen 5,16,HDD,256,13.3,850
+Dell,Model-135,AMD Ryzen 5,16,HDD,512,17.3,1500
+Dell,Model-106,AMD Ryzen 7,4,SSD,256,13.3,1500
+Dell,Model-610,AMD Ryzen 5,4,SSD,1024,14.0,750
+Apple,Model-732,Intel i3,8,SSD,1024,13.3,2000
+Asus,Model-211,Intel i7,16,HDD,1024,13.3,2000
+Asus,Model-127,Intel i5,32,SSD,2048,13.3,850
+Asus,Model-435,Intel i7,16,SSD,1024,17.3,500
+Asus,Model-763,Intel i7,4,SSD,2048,15.6,1000
+Asus,Model-907,AMD Ryzen 7,16,HDD,256,17.3,600
+Acer,Model-237,AMD Ryzen 5,16,HDD,1024,15.6,850
+HP,Model-932,Intel i7,16,HDD,512,14.0,750
+Dell,Model-623,Intel i7,4,SSD,256,13.3,1200
+Lenovo,Model-423,Intel i5,4,HDD,1024,15.6,2000
+Acer,Model-938,Intel i7,4,SSD,512,13.3,500
+MSI,Model-462,Intel i5,8,SSD,1024,13.3,750
+Apple,Model-479,Intel i3,8,HDD,256,14.0,750
+Microsoft,Model-302,AMD Ryzen 5,16,SSD,2048,13.3,1500
+Microsoft,Model-625,Intel i5,16,SSD,256,15.6,1200
+Lenovo,Model-516,Intel i3,32,SSD,512,17.3,1200
+Microsoft,Model-677,Intel i5,4,HDD,512,13.3,1200
+Apple,Model-790,AMD Ryzen 7,32,SSD,512,17.3,1000
+Asus,Model-524,Intel i5,32,SSD,256,14.0,1000
+Dell,Model-735,AMD Ryzen 7,8,SSD,1024,14.0,600
+Acer,Model-255,Intel i3,16,HDD,512,17.3,850
+HP,Model-835,Intel i3,4,HDD,2048,15.6,850
+Dell,Model-872,Intel i7,32,HDD,512,13.3,1000
+HP,Model-823,Intel i7,32,HDD,256,15.6,1200
+Microsoft,Model-930,AMD Ryzen 7,4,HDD,2048,15.6,500
+Apple,Model-737,AMD Ryzen 7,32,SSD,1024,15.6,1200
+Microsoft,Model-140,Intel i5,16,SSD,2048,14.0,500
+Microsoft,Model-591,Intel i7,32,SSD,1024,15.6,1200
+HP,Model-493,AMD Ryzen 7,8,HDD,256,13.3,1500
+Lenovo,Model-249,Intel i3,8,HDD,256,17.3,850
+Asus,Model-198,AMD Ryzen 5,32,HDD,2048,15.6,2000
+Asus,Model-704,Intel i5,8,SSD,2048,17.3,2000
+Acer,Model-531,Intel i3,4,SSD,512,17.3,500
+HP,Model-999,Intel i5,16,HDD,1024,15.6,850
+Microsoft,Model-760,AMD Ryzen 7,4,HDD,256,14.0,1200
+Dell,Model-401,Intel i7,16,SSD,2048,15.6,2000
+Lenovo,Model-164,AMD Ryzen 7,4,HDD,2048,15.6,2000
+Acer,Model-635,Intel i3,16,HDD,2048,15.6,600
+Apple,Model-827,Intel i5,16,SSD,2048,15.6,1500
+Acer,Model-395,Intel i5,32,SSD,2048,14.0,850
+Asus,Model-181,Intel i5,16,HDD,2048,14.0,1200
+Dell,Model-557,AMD Ryzen 7,16,SSD,2048,13.3,600
+Dell,Model-263,Intel i7,16,HDD,512,15.6,1200
+Lenovo,Model-888,Intel i5,8,HDD,256,15.6,2000
+Acer,Model-428,Intel i3,4,SSD,2048,13.3,500
+Microsoft,Model-994,Intel i3,4,SSD,2048,14.0,750
+HP,Model-108,Intel i3,8,SSD,256,17.3,600
+Asus,Model-932,Intel i7,32,HDD,512,17.3,1000
+Lenovo,Model-813,AMD Ryzen 5,8,HDD,256,13.3,1000
+Acer,Model-741,Intel i3,8,SSD,2048,15.6,2000
+Lenovo,Model-742,Intel i5,16,HDD,512,13.3,850
+Dell,Model-148,Intel i5,16,HDD,2048,17.3,1000
+Dell,Model-587,Intel i5,8,HDD,512,17.3,1200
+Acer,Model-688,Intel i7,4,HDD,256,15.6,2000
+Microsoft,Model-979,Intel i5,32,SSD,2048,13.3,850
+Acer,Model-723,Intel i3,32,HDD,512,13.3,2000
+MSI,Model-501,Intel i5,16,SSD,1024,13.3,850
+MSI,Model-119,Intel i7,4,SSD,1024,14.0,1000
+Lenovo,Model-994,Intel i7,32,SSD,256,14.0,750
+Microsoft,Model-857,Intel i5,32,SSD,256,15.6,1200
+Asus,Model-913,Intel i7,16,HDD,2048,14.0,1000
+HP,Model-965,Intel i3,32,HDD,1024,17.3,1500
+HP,Model-151,AMD Ryzen 7,8,SSD,512,13.3,500
+Microsoft,Model-251,Intel i5,8,HDD,2048,17.3,600
+HP,Model-273,Intel i5,16,HDD,1024,14.0,750
+Apple,Model-881,AMD Ryzen 5,4,HDD,256,17.3,600
+Dell,Model-864,Intel i7,8,SSD,1024,15.6,500
+Apple,Model-602,AMD Ryzen 7,8,SSD,1024,14.0,850
+Asus,Model-174,Intel i7,16,SSD,256,14.0,2000
+MSI,Model-872,AMD Ryzen 7,4,HDD,1024,17.3,850
+Lenovo,Model-724,Intel i3,16,SSD,2048,13.3,2000
+Dell,Model-743,AMD Ryzen 7,32,HDD,512,14.0,1200
+Dell,Model-435,Intel i5,4,HDD,1024,14.0,500
+Acer,Model-710,Intel i3,32,HDD,512,13.3,1500
+MSI,Model-451,AMD Ryzen 5,4,HDD,1024,13.3,600
+HP,Model-635,AMD Ryzen 5,32,HDD,1024,15.6,850
+MSI,Model-695,Intel i5,8,HDD,2048,15.6,2000
+HP,Model-494,Intel i7,32,HDD,512,13.3,500
+HP,Model-376,Intel i5,4,SSD,1024,13.3,750
+MSI,Model-493,Intel i5,4,SSD,1024,15.6,850
+Microsoft,Model-872,AMD Ryzen 5,32,HDD,2048,14.0,1000
+Asus,Model-112,AMD Ryzen 5,4,HDD,256,15.6,1200
+Apple,Model-779,Intel i5,4,HDD,512,17.3,1000
+MSI,Model-354,Intel i7,32,SSD,1024,13.3,850
+Apple,Model-906,Intel i3,32,SSD,256,17.3,600
+Lenovo,Model-274,Intel i7,8,SSD,256,14.0,1200
+Dell,Model-577,AMD Ryzen 7,4,SSD,1024,17.3,1500
+HP,Model-832,Intel i3,4,HDD,512,14.0,1200
+Apple,Model-224,Intel i5,32,SSD,512,13.3,600
+Microsoft,Model-480,Intel i5,4,HDD,2048,13.3,1500
+Apple,Model-829,AMD Ryzen 7,16,SSD,256,14.0,500
+Asus,Model-509,AMD Ryzen 7,32,HDD,512,14.0,1000
+Lenovo,Model-398,AMD Ryzen 5,4,HDD,1024,13.3,1200
+Dell,Model-524,AMD Ryzen 7,32,HDD,512,13.3,1000
+Apple,Model-176,Intel i7,8,HDD,1024,15.6,1500
+MSI,Model-798,Intel i7,4,HDD,1024,14.0,2000
+Lenovo,Model-395,Intel i3,32,HDD,1024,15.6,1200
+MSI,Model-225,AMD Ryzen 7,16,HDD,1024,14.0,500
+Asus,Model-354,Intel i5,32,SSD,1024,17.3,750
+Microsoft,Model-885,AMD Ryzen 5,16,SSD,512,13.3,1000
+Microsoft,Model-452,Intel i7,32,HDD,512,17.3,1500
+HP,Model-417,AMD Ryzen 7,32,HDD,512,15.6,750
+Lenovo,Model-410,AMD Ryzen 7,8,HDD,256,13.3,1200
+Acer,Model-597,Intel i5,32,HDD,1024,17.3,850
+Asus,Model-865,AMD Ryzen 5,4,SSD,2048,15.6,2000
+Apple,Model-286,AMD Ryzen 7,32,HDD,256,15.6,500
+Dell,Model-440,Intel i7,32,HDD,2048,17.3,1500
+Asus,Model-222,AMD Ryzen 5,8,HDD,512,14.0,1500
+MSI,Model-125,Intel i3,8,SSD,2048,13.3,2000
+Lenovo,Model-285,Intel i7,32,SSD,2048,15.6,750
+Apple,Model-324,Intel i7,32,SSD,1024,15.6,750
+Microsoft,Model-598,AMD Ryzen 5,32,HDD,1024,17.3,1000
+Asus,Model-508,Intel i5,32,HDD,2048,15.6,750
+MSI,Model-525,AMD Ryzen 5,16,SSD,2048,15.6,1200
+HP,Model-142,Intel i7,8,HDD,1024,13.3,1200
+HP,Model-171,Intel i5,16,HDD,256,17.3,1000
+MSI,Model-877,AMD Ryzen 5,4,HDD,2048,17.3,850
+MSI,Model-728,Intel i7,4,SSD,256,17.3,850
+Apple,Model-896,Intel i5,16,SSD,1024,14.0,850
+Acer,Model-657,AMD Ryzen 7,8,SSD,2048,14.0,2000
+Apple,Model-493,Intel i5,4,SSD,512,13.3,2000
+Acer,Model-256,AMD Ryzen 5,8,HDD,512,17.3,1500
+Dell,Model-657,AMD Ryzen 7,16,SSD,512,13.3,850
+Acer,Model-622,Intel i5,32,HDD,256,14.0,1200
+Microsoft,Model-314,Intel i5,4,HDD,1024,13.3,1000
+HP,Model-934,AMD Ryzen 5,32,SSD,256,15.6,1000
+HP,Model-400,AMD Ryzen 7,8,SSD,512,13.3,2000
+Dell,Model-895,AMD Ryzen 7,32,SSD,2048,17.3,1200
+Dell,Model-346,AMD Ryzen 5,8,HDD,512,17.3,2000
+Microsoft,Model-578,Intel i3,32,HDD,512,13.3,2000
+Apple,Model-135,AMD Ryzen 7,32,HDD,512,14.0,500
+Apple,Model-436,Intel i5,4,HDD,2048,14.0,850
+MSI,Model-611,Intel i5,16,HDD,256,14.0,750
+Lenovo,Model-304,AMD Ryzen 7,32,SSD,1024,13.3,1500
+Lenovo,Model-905,Intel i7,32,HDD,512,13.3,600
+Apple,Model-525,Intel i7,16,SSD,2048,13.3,1000
+Apple,Model-941,Intel i7,32,SSD,2048,15.6,750
+Microsoft,Model-638,Intel i7,32,HDD,256,14.0,1200
+HP,Model-318,Intel i5,4,HDD,1024,17.3,1000
+Acer,Model-680,AMD Ryzen 7,16,SSD,2048,14.0,750
+Asus,Model-577,Intel i5,16,HDD,256,13.3,750
+Microsoft,Model-205,Intel i3,32,SSD,1024,14.0,600
+Apple,Model-955,Intel i7,32,SSD,256,17.3,1200
+Lenovo,Model-394,Intel i5,16,SSD,512,15.6,2000
+Apple,Model-976,Intel i5,4,SSD,512,15.6,1000
+Apple,Model-546,Intel i7,8,HDD,256,13.3,1200
+HP,Model-988,Intel i3,4,SSD,2048,14.0,750
+Acer,Model-791,AMD Ryzen 5,16,HDD,1024,14.0,750
+Asus,Model-296,AMD Ryzen 7,32,SSD,512,14.0,750
+Acer,Model-777,Intel i7,4,SSD,2048,13.3,750
+Apple,Model-431,Intel i5,16,HDD,1024,13.3,850
+MSI,Model-666,AMD Ryzen 7,16,SSD,256,15.6,1200
+Asus,Model-920,Intel i3,8,SSD,256,13.3,1000
+Apple,Model-538,Intel i5,8,SSD,2048,14.0,750
+MSI,Model-965,Intel i7,4,HDD,2048,15.6,850
+HP,Model-959,AMD Ryzen 7,8,HDD,512,13.3,600
+Acer,Model-898,AMD Ryzen 7,32,HDD,2048,13.3,2000
+Lenovo,Model-991,AMD Ryzen 5,16,SSD,256,15.6,500
+Dell,Model-815,Intel i5,16,SSD,1024,13.3,500
+Acer,Model-401,Intel i7,4,SSD,2048,13.3,1500
+Dell,Model-593,AMD Ryzen 7,4,HDD,512,15.6,750
+MSI,Model-913,Intel i5,8,HDD,512,14.0,850
+MSI,Model-759,AMD Ryzen 7,4,HDD,256,15.6,750
+MSI,Model-924,AMD Ryzen 7,8,SSD,256,13.3,850
+Acer,Model-279,AMD Ryzen 5,4,SSD,256,13.3,600
+MSI,Model-139,Intel i3,8,SSD,512,13.3,750
+Lenovo,Model-701,Intel i7,8,SSD,1024,14.0,850
+Apple,Model-951,Intel i3,32,HDD,1024,15.6,750
+HP,Model-910,AMD Ryzen 7,8,SSD,2048,14.0,1000
+MSI,Model-443,Intel i3,8,HDD,512,17.3,1000
+Dell,Model-867,Intel i5,4,HDD,1024,15.6,500
+Acer,Model-768,Intel i7,4,SSD,256,15.6,500
+Dell,Model-715,AMD Ryzen 5,32,SSD,256,15.6,750
+Apple,Model-310,Intel i3,8,SSD,1024,13.3,750
+Apple,Model-580,Intel i3,16,HDD,512,13.3,500
+Dell,Model-362,AMD Ryzen 5,32,SSD,256,17.3,500
+Lenovo,Model-216,Intel i7,32,HDD,256,15.6,2000
+Microsoft,Model-565,AMD Ryzen 5,16,HDD,1024,15.6,1000
+Microsoft,Model-335,Intel i5,8,SSD,512,14.0,500
+HP,Model-444,Intel i7,32,SSD,2048,13.3,600
+Microsoft,Model-593,Intel i5,32,HDD,512,13.3,1000
+Microsoft,Model-928,Intel i3,16,SSD,256,14.0,2000
+MSI,Model-279,AMD Ryzen 5,32,SSD,2048,15.6,1500
+Dell,Model-101,Intel i5,8,SSD,2048,17.3,2000
+Asus,Model-633,AMD Ryzen 5,8,HDD,256,17.3,2000
+MSI,Model-377,Intel i7,16,HDD,1024,14.0,1000
+Asus,Model-341,Intel i3,8,HDD,512,15.6,600
+Acer,Model-412,AMD Ryzen 5,16,HDD,256,15.6,600
+HP,Model-279,Intel i3,4,SSD,512,17.3,1500
+Dell,Model-124,Intel i5,4,HDD,2048,17.3,750
+Lenovo,Model-664,Intel i7,4,SSD,2048,14.0,500
+Asus,Model-427,AMD Ryzen 5,32,SSD,1024,14.0,1000
+HP,Model-276,Intel i5,32,HDD,512,17.3,750
+Dell,Model-163,Intel i7,8,SSD,2048,17.3,1500
+Asus,Model-959,Intel i7,16,HDD,1024,14.0,1200
+MSI,Model-649,Intel i7,16,HDD,1024,15.6,750
+MSI,Model-564,Intel i5,32,SSD,1024,14.0,2000
+Dell,Model-185,Intel i7,4,HDD,1024,13.3,2000
+HP,Model-571,Intel i5,8,SSD,256,17.3,500
+Microsoft,Model-579,Intel i7,16,SSD,512,17.3,1000
+Microsoft,Model-297,AMD Ryzen 5,16,SSD,2048,14.0,600
+Apple,Model-215,AMD Ryzen 7,16,HDD,2048,17.3,1000
+Microsoft,Model-150,Intel i3,16,HDD,1024,14.0,1000
+MSI,Model-461,AMD Ryzen 7,16,HDD,2048,15.6,1200
+Apple,Model-633,Intel i7,8,SSD,256,17.3,600
+Asus,Model-237,Intel i3,16,HDD,256,14.0,1200
+Apple,Model-177,Intel i7,8,SSD,256,15.6,1000
+Lenovo,Model-125,Intel i3,8,HDD,2048,14.0,750
+Asus,Model-128,Intel i7,8,SSD,2048,13.3,850
+Acer,Model-106,AMD Ryzen 5,16,HDD,512,17.3,1000
+Dell,Model-930,AMD Ryzen 7,8,HDD,256,14.0,1200
+Dell,Model-668,Intel i5,16,SSD,512,15.6,600
+MSI,Model-782,Intel i3,32,HDD,512,13.3,600
+Dell,Model-931,Intel i7,4,SSD,2048,15.6,750
+Asus,Model-997,Intel i5,4,HDD,1024,14.0,1000
+Dell,Model-120,Intel i7,4,SSD,1024,13.3,850
+Apple,Model-613,Intel i3,4,HDD,1024,17.3,750
+Lenovo,Model-771,AMD Ryzen 7,4,SSD,2048,13.3,600
+Asus,Model-467,AMD Ryzen 5,32,SSD,1024,17.3,600
+Dell,Model-562,Intel i5,4,SSD,1024,13.3,1000
+Microsoft,Model-727,AMD Ryzen 5,16,SSD,1024,14.0,750
+HP,Model-338,Intel i3,8,HDD,1024,15.6,850
+Asus,Model-145,Intel i5,32,SSD,512,13.3,2000
+Microsoft,Model-773,Intel i3,4,SSD,256,15.6,2000
+Lenovo,Model-497,Intel i5,8,HDD,1024,17.3,500
+Dell,Model-683,Intel i5,16,HDD,256,17.3,750
+MSI,Model-919,Intel i7,32,HDD,2048,17.3,1000
+Dell,Model-294,Intel i7,32,SSD,256,17.3,500
+Dell,Model-887,Intel i5,32,SSD,2048,15.6,600
+Asus,Model-269,Intel i5,8,SSD,2048,17.3,1200
+Apple,Model-719,Intel i7,4,HDD,512,13.3,1200
+HP,Model-291,Intel i3,8,SSD,1024,14.0,750
+Apple,Model-318,AMD Ryzen 7,16,HDD,2048,14.0,1500
+Acer,Model-336,AMD Ryzen 7,4,HDD,512,14.0,600
+Asus,Model-504,AMD Ryzen 5,8,SSD,1024,17.3,500
+Asus,Model-220,AMD Ryzen 7,8,SSD,512,14.0,750
+Asus,Model-179,Intel i3,4,HDD,2048,14.0,850
+Asus,Model-149,Intel i3,32,HDD,512,13.3,1200
+HP,Model-688,AMD Ryzen 5,4,SSD,1024,15.6,600
+Microsoft,Model-949,AMD Ryzen 7,8,HDD,1024,13.3,1500
+Microsoft,Model-261,Intel i3,4,HDD,256,14.0,500
+MSI,Model-865,Intel i7,32,SSD,256,15.6,1200
+Microsoft,Model-775,Intel i7,16,SSD,1024,17.3,1500
+Microsoft,Model-871,AMD Ryzen 7,8,HDD,512,14.0,600
+Microsoft,Model-512,Intel i5,4,SSD,1024,15.6,500
+Dell,Model-121,AMD Ryzen 7,16,SSD,1024,15.6,500
+Microsoft,Model-642,Intel i3,16,SSD,1024,17.3,1500
+Apple,Model-145,Intel i3,4,SSD,512,15.6,1000
+Lenovo,Model-297,Intel i3,4,HDD,512,13.3,600
+HP,Model-484,Intel i3,8,SSD,256,15.6,500
+Lenovo,Model-899,AMD Ryzen 7,16,SSD,1024,17.3,750
+HP,Model-858,Intel i7,16,SSD,512,17.3,1200
+Microsoft,Model-504,Intel i5,8,HDD,1024,15.6,1000
+Acer,Model-684,Intel i3,32,HDD,256,17.3,1200
+Dell,Model-895,Intel i3,16,HDD,512,15.6,2000
+Apple,Model-313,Intel i3,8,SSD,1024,14.0,500
+Apple,Model-563,Intel i3,4,SSD,256,17.3,1500
+MSI,Model-502,Intel i3,16,SSD,1024,14.0,850
+Lenovo,Model-908,AMD Ryzen 7,4,SSD,1024,17.3,1200
+MSI,Model-420,AMD Ryzen 7,16,SSD,2048,13.3,1200
+Dell,Model-678,Intel i7,16,HDD,512,15.6,500
+Lenovo,Model-753,AMD Ryzen 7,32,SSD,2048,14.0,1200
+Lenovo,Model-533,AMD Ryzen 5,8,SSD,1024,17.3,1200
+Asus,Model-646,Intel i5,32,HDD,1024,14.0,2000
+HP,Model-505,Intel i5,32,SSD,2048,15.6,1000
+Apple,Model-877,Intel i3,4,SSD,1024,14.0,1500
+Apple,Model-283,AMD Ryzen 7,16,SSD,256,17.3,500
+Asus,Model-770,AMD Ryzen 5,32,HDD,256,14.0,2000
+Dell,Model-949,Intel i5,8,SSD,512,15.6,600
+HP,Model-754,AMD Ryzen 7,32,HDD,512,14.0,1200
+Apple,Model-476,Intel i7,16,HDD,512,13.3,750
+Apple,Model-535,AMD Ryzen 7,8,SSD,512,13.3,1000
+Apple,Model-806,Intel i5,32,SSD,1024,17.3,1000
+Lenovo,Model-391,Intel i5,32,HDD,512,17.3,750
+Asus,Model-400,Intel i3,4,HDD,1024,14.0,600
+Acer,Model-734,AMD Ryzen 7,4,SSD,1024,13.3,1500
+Asus,Model-815,AMD Ryzen 5,16,HDD,1024,13.3,850
+Dell,Model-625,AMD Ryzen 7,32,SSD,256,14.0,750
+Acer,Model-366,Intel i5,16,HDD,2048,17.3,1200
+HP,Model-484,AMD Ryzen 5,32,SSD,2048,17.3,1000
+MSI,Model-855,Intel i7,8,HDD,1024,13.3,600
+Apple,Model-980,Intel i5,4,SSD,512,17.3,600
+HP,Model-743,Intel i7,8,SSD,1024,17.3,500
+HP,Model-499,Intel i7,32,HDD,2048,15.6,1500
+HP,Model-101,AMD Ryzen 7,4,SSD,2048,14.0,2000
+Asus,Model-303,Intel i7,16,SSD,1024,14.0,1500
+Acer,Model-434,AMD Ryzen 5,4,SSD,512,13.3,1000
+HP,Model-953,Intel i5,32,SSD,1024,15.6,1000
+Asus,Model-184,AMD Ryzen 5,8,HDD,1024,13.3,1200
+Acer,Model-630,Intel i5,32,SSD,512,15.6,1500
+Dell,Model-640,Intel i7,32,HDD,256,17.3,2000
+Apple,Model-933,Intel i7,32,SSD,256,15.6,2000
+Dell,Model-520,Intel i5,32,SSD,2048,17.3,600
+Acer,Model-338,Intel i5,16,HDD,256,13.3,850
+Microsoft,Model-393,AMD Ryzen 7,16,HDD,256,14.0,600
+MSI,Model-906,Intel i3,8,SSD,2048,17.3,600
+Lenovo,Model-962,Intel i5,16,SSD,2048,14.0,1000
+Dell,Model-841,Intel i5,32,SSD,1024,17.3,1000
+Lenovo,Model-650,AMD Ryzen 7,4,SSD,512,14.0,500
+Lenovo,Model-665,Intel i3,8,HDD,2048,14.0,600
+MSI,Model-551,Intel i7,32,SSD,512,13.3,750
+MSI,Model-255,Intel i3,8,HDD,512,14.0,750
+Microsoft,Model-143,AMD Ryzen 5,32,SSD,2048,17.3,850
+Lenovo,Model-551,AMD Ryzen 5,32,HDD,512,15.6,1000
+Asus,Model-372,AMD Ryzen 7,4,HDD,512,17.3,1500
+Asus,Model-235,Intel i5,4,SSD,256,14.0,1200
+Asus,Model-607,Intel i7,32,SSD,2048,13.3,850
+HP,Model-907,AMD Ryzen 5,16,SSD,2048,17.3,600
+Acer,Model-655,Intel i3,4,SSD,512,13.3,500
+Apple,Model-594,Intel i7,32,SSD,2048,14.0,1200
+Lenovo,Model-918,Intel i7,4,SSD,512,13.3,1000
+HP,Model-552,AMD Ryzen 7,16,SSD,1024,15.6,500
+Acer,Model-761,AMD Ryzen 5,16,SSD,256,14.0,750
+HP,Model-572,Intel i3,8,HDD,512,15.6,1500
+Dell,Model-338,AMD Ryzen 5,4,HDD,512,15.6,600
+HP,Model-219,AMD Ryzen 5,4,HDD,256,17.3,2000
+Apple,Model-354,AMD Ryzen 7,8,SSD,2048,13.3,500
+Dell,Model-883,Intel i7,16,SSD,2048,17.3,1000
+HP,Model-468,Intel i3,16,HDD,512,17.3,1000
+HP,Model-795,AMD Ryzen 7,32,SSD,512,15.6,1000
+Microsoft,Model-123,Intel i5,32,HDD,512,13.3,1000
+Lenovo,Model-740,AMD Ryzen 7,4,SSD,256,17.3,750
+Lenovo,Model-470,AMD Ryzen 5,32,SSD,256,17.3,500
+HP,Model-715,AMD Ryzen 5,8,HDD,256,17.3,750
+Microsoft,Model-841,Intel i3,8,SSD,1024,14.0,1500
+Asus,Model-496,AMD Ryzen 5,8,SSD,256,14.0,750
+Apple,Model-999,AMD Ryzen 5,32,SSD,256,15.6,1000
+Dell,Model-231,Intel i3,32,HDD,512,17.3,1500
+Acer,Model-562,AMD Ryzen 7,4,SSD,256,13.3,500
+Dell,Model-995,AMD Ryzen 5,32,SSD,256,14.0,1000
+Acer,Model-274,AMD Ryzen 5,32,SSD,256,17.3,750
+Acer,Model-848,Intel i3,8,SSD,2048,13.3,1000
+Asus,Model-118,Intel i7,8,HDD,1024,17.3,600
+HP,Model-432,AMD Ryzen 7,8,HDD,1024,14.0,1000
+Lenovo,Model-461,Intel i5,16,SSD,2048,15.6,600
+Lenovo,Model-884,AMD Ryzen 7,16,SSD,1024,13.3,1500
+MSI,Model-585,AMD Ryzen 5,4,HDD,1024,14.0,750
+Acer,Model-945,AMD Ryzen 7,8,SSD,1024,15.6,1500
+Apple,Model-672,AMD Ryzen 5,4,SSD,256,14.0,500
+Microsoft,Model-752,AMD Ryzen 7,32,SSD,512,17.3,2000
+Microsoft,Model-766,Intel i3,32,SSD,2048,14.0,500
+Lenovo,Model-140,Intel i3,4,SSD,2048,17.3,750
+HP,Model-552,AMD Ryzen 7,4,HDD,256,14.0,600
+Apple,Model-335,Intel i3,4,SSD,512,13.3,600
+Microsoft,Model-873,AMD Ryzen 5,8,HDD,1024,17.3,850
+Acer,Model-380,Intel i5,8,SSD,2048,14.0,1200
+HP,Model-503,AMD Ryzen 7,4,SSD,512,15.6,600
+Dell,Model-484,Intel i3,16,SSD,2048,17.3,1200
+Lenovo,Model-973,Intel i5,8,HDD,2048,17.3,2000
+MSI,Model-336,Intel i5,8,HDD,2048,13.3,500
+HP,Model-832,Intel i5,16,SSD,2048,15.6,850
+Acer,Model-229,AMD Ryzen 7,16,SSD,512,14.0,850
+Acer,Model-962,Intel i5,8,HDD,1024,14.0,500
+HP,Model-379,AMD Ryzen 7,16,HDD,2048,14.0,850
+Acer,Model-388,Intel i5,16,SSD,2048,14.0,750
+MSI,Model-798,Intel i7,8,SSD,256,14.0,750
+Asus,Model-202,Intel i3,16,SSD,512,17.3,2000
+Microsoft,Model-836,AMD Ryzen 7,8,HDD,512,17.3,1000
+Apple,Model-472,Intel i7,16,SSD,512,13.3,850
+HP,Model-442,Intel i3,4,SSD,2048,17.3,2000
+MSI,Model-776,AMD Ryzen 7,8,HDD,2048,17.3,1200
+MSI,Model-294,AMD Ryzen 7,32,HDD,2048,15.6,500
+HP,Model-542,Intel i3,16,HDD,512,14.0,850
+Acer,Model-528,Intel i5,16,SSD,512,14.0,1200
+Acer,Model-294,Intel i5,4,SSD,1024,13.3,850
+Apple,Model-254,AMD Ryzen 7,4,SSD,512,13.3,850
+Acer,Model-607,Intel i5,4,HDD,256,13.3,500
+Dell,Model-630,AMD Ryzen 5,4,HDD,1024,17.3,2000
+Microsoft,Model-201,Intel i3,4,HDD,256,15.6,1000
+Microsoft,Model-791,AMD Ryzen 5,32,HDD,512,14.0,1500
+HP,Model-226,Intel i7,32,HDD,1024,14.0,500
+Dell,Model-689,Intel i5,8,SSD,512,17.3,1000
+Asus,Model-403,AMD Ryzen 7,16,HDD,2048,17.3,500
+Apple,Model-883,Intel i7,4,SSD,256,15.6,500
+Microsoft,Model-824,AMD Ryzen 5,4,SSD,1024,13.3,500
+Microsoft,Model-974,Intel i5,4,SSD,1024,13.3,1200
+Asus,Model-986,Intel i3,32,HDD,512,17.3,750
+Dell,Model-720,Intel i5,4,HDD,1024,14.0,850
+Dell,Model-323,AMD Ryzen 7,4,HDD,1024,15.6,1200
+Acer,Model-372,Intel i5,8,HDD,512,13.3,850
+Lenovo,Model-830,Intel i7,4,SSD,1024,14.0,2000
+Dell,Model-515,AMD Ryzen 5,32,SSD,2048,14.0,1200
+Microsoft,Model-931,Intel i7,8,SSD,512,13.3,2000
+HP,Model-854,AMD Ryzen 7,32,SSD,256,15.6,850
+MSI,Model-100,AMD Ryzen 7,4,HDD,256,15.6,500
+Asus,Model-694,Intel i5,16,HDD,2048,13.3,1200
+HP,Model-471,AMD Ryzen 7,16,HDD,512,15.6,750
+Dell,Model-378,Intel i7,16,HDD,512,13.3,1000
+Dell,Model-686,Intel i3,4,SSD,256,15.6,1500
+Microsoft,Model-236,Intel i5,8,SSD,256,17.3,2000
+Acer,Model-518,AMD Ryzen 7,8,HDD,512,15.6,2000
+Acer,Model-573,Intel i7,8,SSD,2048,14.0,2000
+Apple,Model-871,Intel i3,32,SSD,256,13.3,1200
+Asus,Model-997,AMD Ryzen 7,32,SSD,1024,15.6,600
+MSI,Model-516,Intel i7,16,SSD,512,17.3,500
+Asus,Model-534,AMD Ryzen 5,8,HDD,1024,17.3,1200
+Lenovo,Model-586,AMD Ryzen 7,16,SSD,512,17.3,2000
+MSI,Model-901,AMD Ryzen 7,32,SSD,256,15.6,850
+Asus,Model-128,Intel i7,16,HDD,2048,14.0,500
+Apple,Model-579,AMD Ryzen 7,32,HDD,1024,15.6,1200
+HP,Model-963,AMD Ryzen 7,4,HDD,512,14.0,1000
+Microsoft,Model-931,AMD Ryzen 5,16,SSD,1024,13.3,600
+Apple,Model-504,AMD Ryzen 7,16,SSD,2048,17.3,2000
+Microsoft,Model-229,Intel i3,32,HDD,1024,17.3,500
+Microsoft,Model-941,Intel i3,16,HDD,512,17.3,1200
+Apple,Model-598,AMD Ryzen 7,8,SSD,1024,14.0,750
+Asus,Model-694,AMD Ryzen 7,4,SSD,256,15.6,850
+HP,Model-490,AMD Ryzen 5,4,SSD,256,13.3,850
+HP,Model-823,Intel i7,4,HDD,256,17.3,1500
+Dell,Model-726,Intel i3,16,HDD,512,14.0,850
+Dell,Model-847,Intel i5,32,SSD,2048,17.3,500
+Dell,Model-379,Intel i3,8,SSD,256,13.3,850
+Lenovo,Model-695,AMD Ryzen 5,4,HDD,2048,17.3,850
+Asus,Model-537,AMD Ryzen 5,4,HDD,1024,17.3,1500
+Apple,Model-707,AMD Ryzen 5,4,HDD,1024,15.6,500
+Microsoft,Model-831,Intel i5,4,SSD,1024,15.6,600
+MSI,Model-883,Intel i5,4,SSD,2048,13.3,600
+MSI,Model-536,Intel i7,4,HDD,512,17.3,1000
+Lenovo,Model-235,Intel i7,16,HDD,1024,13.3,1200
+Acer,Model-292,Intel i7,4,HDD,1024,17.3,1000
+Lenovo,Model-520,Intel i7,16,HDD,1024,14.0,1000
+Asus,Model-816,Intel i5,16,SSD,256,15.6,500
+Microsoft,Model-967,AMD Ryzen 5,16,SSD,2048,13.3,1200
+Lenovo,Model-808,AMD Ryzen 7,32,HDD,1024,13.3,1200
+Apple,Model-751,Intel i3,4,HDD,2048,17.3,1000
+Microsoft,Model-513,Intel i5,16,HDD,512,17.3,1000
+Dell,Model-374,Intel i5,16,HDD,256,17.3,850
+Lenovo,Model-503,Intel i7,8,HDD,2048,13.3,750
+Microsoft,Model-779,Intel i3,4,HDD,256,15.6,1000
+Lenovo,Model-839,Intel i7,8,HDD,256,17.3,1000
+HP,Model-920,Intel i7,32,HDD,512,17.3,1000
+Asus,Model-689,AMD Ryzen 7,32,HDD,512,14.0,600
+Apple,Model-560,Intel i5,8,SSD,1024,17.3,1500
+MSI,Model-500,AMD Ryzen 7,16,HDD,512,14.0,500
+Asus,Model-116,Intel i7,8,SSD,256,15.6,600
+Acer,Model-926,Intel i5,4,HDD,1024,15.6,750
+Apple,Model-676,AMD Ryzen 7,4,HDD,512,15.6,600
+Asus,Model-920,Intel i7,8,SSD,256,17.3,2000
+Dell,Model-437,AMD Ryzen 5,8,HDD,1024,13.3,850
+Dell,Model-691,AMD Ryzen 7,16,HDD,1024,14.0,600
+Lenovo,Model-261,Intel i7,8,SSD,2048,15.6,500
+Acer,Model-203,Intel i3,4,HDD,512,13.3,1000
+Asus,Model-262,AMD Ryzen 7,32,SSD,2048,14.0,1500
+Lenovo,Model-655,Intel i7,4,HDD,1024,14.0,600
+Lenovo,Model-704,Intel i5,4,HDD,256,17.3,1200
+Apple,Model-348,Intel i5,4,SSD,1024,14.0,2000
+Dell,Model-138,AMD Ryzen 5,32,SSD,2048,14.0,600
+MSI,Model-321,Intel i7,16,SSD,256,13.3,600
+Asus,Model-568,Intel i3,8,SSD,2048,14.0,500
+Dell,Model-212,AMD Ryzen 7,16,SSD,512,17.3,850
+MSI,Model-158,Intel i5,32,SSD,1024,17.3,850
+Apple,Model-400,AMD Ryzen 5,4,SSD,2048,14.0,750
+Acer,Model-762,AMD Ryzen 5,16,SSD,256,17.3,1200
+HP,Model-643,Intel i5,32,SSD,1024,14.0,850
+Microsoft,Model-648,Intel i3,8,HDD,2048,17.3,1500
+Dell,Model-943,AMD Ryzen 7,4,HDD,256,13.3,1200
+HP,Model-886,AMD Ryzen 7,32,HDD,1024,17.3,500
+MSI,Model-716,AMD Ryzen 7,32,HDD,512,13.3,2000
+HP,Model-727,AMD Ryzen 7,4,HDD,2048,17.3,1500
+MSI,Model-820,Intel i7,16,HDD,512,17.3,1500
+Dell,Model-415,Intel i3,4,HDD,256,14.0,1500
+Microsoft,Model-366,Intel i5,16,HDD,1024,13.3,1000
+MSI,Model-286,Intel i7,4,HDD,2048,15.6,2000
+Asus,Model-768,Intel i3,8,SSD,2048,17.3,1200
+Lenovo,Model-150,Intel i3,8,HDD,512,15.6,1200
+Acer,Model-897,Intel i5,16,HDD,2048,14.0,850
+Dell,Model-492,Intel i5,4,SSD,1024,14.0,750
+HP,Model-431,Intel i5,32,SSD,256,14.0,1500
+Microsoft,Model-635,Intel i5,16,HDD,1024,13.3,750
+Asus,Model-215,Intel i7,32,HDD,2048,14.0,1200
+Apple,Model-582,AMD Ryzen 7,32,SSD,1024,17.3,1200
+Apple,Model-580,Intel i5,4,SSD,256,13.3,1200
+Acer,Model-134,AMD Ryzen 7,32,SSD,2048,14.0,600
+MSI,Model-398,Intel i7,16,SSD,512,17.3,500
+Dell,Model-777,AMD Ryzen 5,8,SSD,2048,14.0,750
+Dell,Model-166,Intel i7,16,HDD,256,14.0,2000
+Asus,Model-148,Intel i3,4,SSD,512,13.3,1200
+Lenovo,Model-219,AMD Ryzen 7,32,HDD,1024,15.6,2000
+Lenovo,Model-259,AMD Ryzen 7,32,HDD,256,13.3,500
+Dell,Model-523,Intel i7,8,SSD,512,15.6,1000
+Microsoft,Model-221,AMD Ryzen 7,16,SSD,512,13.3,1000
+Asus,Model-704,Intel i5,4,HDD,256,14.0,1000
+Dell,Model-609,Intel i7,4,SSD,256,17.3,600
+MSI,Model-409,Intel i5,32,SSD,1024,14.0,750
+Microsoft,Model-324,Intel i5,32,SSD,512,13.3,850
+Dell,Model-896,AMD Ryzen 5,8,HDD,1024,13.3,600
+Acer,Model-386,Intel i3,8,HDD,256,15.6,850
+Lenovo,Model-274,Intel i5,4,HDD,1024,15.6,500
+Asus,Model-258,Intel i5,8,HDD,2048,13.3,500
+Apple,Model-982,Intel i7,8,SSD,2048,15.6,750
+MSI,Model-800,Intel i5,32,SSD,1024,15.6,2000
+Microsoft,Model-492,Intel i5,32,HDD,256,17.3,600
+HP,Model-892,AMD Ryzen 7,32,HDD,1024,14.0,750
+Acer,Model-730,AMD Ryzen 7,4,SSD,256,15.6,500
+Asus,Model-976,Intel i5,4,SSD,256,14.0,1200
+Acer,Model-563,Intel i5,8,HDD,256,15.6,2000
+Acer,Model-349,AMD Ryzen 5,4,HDD,512,14.0,1200
+Microsoft,Model-789,Intel i3,16,SSD,256,15.6,600
+Acer,Model-312,Intel i7,4,SSD,2048,14.0,1500
+HP,Model-284,Intel i5,16,SSD,512,14.0,850
+Apple,Model-900,Intel i7,16,HDD,2048,13.3,1000
+HP,Model-824,Intel i7,4,HDD,2048,15.6,600
+Dell,Model-786,Intel i5,32,HDD,512,15.6,600
+Apple,Model-485,AMD Ryzen 7,8,SSD,256,15.6,600
+Microsoft,Model-467,Intel i5,8,HDD,512,13.3,1500
+Dell,Model-918,AMD Ryzen 5,32,HDD,1024,14.0,500
+Apple,Model-122,AMD Ryzen 7,4,HDD,512,15.6,750
+HP,Model-626,Intel i5,4,SSD,2048,13.3,1000
+Acer,Model-658,AMD Ryzen 7,8,SSD,2048,13.3,1000
+Dell,Model-266,Intel i3,4,SSD,2048,15.6,1200
+Microsoft,Model-472,Intel i7,32,SSD,1024,17.3,1500
+Lenovo,Model-513,AMD Ryzen 7,4,SSD,1024,14.0,2000
+HP,Model-615,Intel i5,8,SSD,512,17.3,500
+HP,Model-881,Intel i3,16,HDD,1024,14.0,1200
+Apple,Model-740,Intel i3,4,HDD,512,14.0,1000
+Asus,Model-167,Intel i5,4,HDD,1024,15.6,850
+Acer,Model-912,AMD Ryzen 5,8,HDD,256,15.6,2000
+Asus,Model-609,Intel i7,4,HDD,2048,13.3,850
+HP,Model-626,AMD Ryzen 5,32,HDD,256,13.3,2000
+Lenovo,Model-257,AMD Ryzen 7,8,HDD,1024,13.3,600
+Apple,Model-745,AMD Ryzen 7,4,SSD,1024,15.6,600
+Microsoft,Model-565,Intel i5,4,SSD,1024,14.0,500
+Microsoft,Model-265,Intel i3,16,HDD,256,13.3,750
+Acer,Model-523,Intel i5,32,SSD,256,17.3,2000
+Asus,Model-813,Intel i5,8,SSD,2048,17.3,1200
+Lenovo,Model-347,AMD Ryzen 5,8,HDD,256,14.0,750
+Apple,Model-259,Intel i7,8,HDD,256,14.0,1000
+Asus,Model-375,Intel i7,32,SSD,512,13.3,2000
+Dell,Model-325,Intel i5,4,SSD,256,14.0,500
+MSI,Model-662,AMD Ryzen 5,4,HDD,512,17.3,1200
+MSI,Model-174,Intel i3,4,HDD,256,15.6,1000
+Dell,Model-947,Intel i5,16,HDD,512,15.6,1200
+Asus,Model-113,Intel i5,32,SSD,256,15.6,2000
+Microsoft,Model-939,Intel i5,16,SSD,2048,17.3,2000
+Asus,Model-829,AMD Ryzen 5,8,SSD,256,13.3,750
+Apple,Model-493,Intel i3,16,SSD,2048,17.3,2000
+MSI,Model-727,AMD Ryzen 7,32,SSD,256,15.6,600
+HP,Model-505,AMD Ryzen 5,4,HDD,256,14.0,1500
+MSI,Model-564,Intel i5,32,HDD,256,14.0,850
+Dell,Model-349,Intel i3,4,SSD,256,14.0,750
+Apple,Model-773,Intel i5,16,SSD,512,13.3,500
+Lenovo,Model-290,AMD Ryzen 5,8,SSD,256,14.0,600
+Microsoft,Model-676,Intel i5,16,HDD,256,13.3,500
+Apple,Model-636,Intel i5,16,HDD,1024,17.3,850
+Microsoft,Model-352,AMD Ryzen 5,8,HDD,1024,13.3,600
+Lenovo,Model-977,Intel i5,32,SSD,1024,13.3,2000
+Dell,Model-775,Intel i7,16,HDD,1024,17.3,750
+Apple,Model-243,AMD Ryzen 7,8,SSD,512,17.3,600
+Apple,Model-107,AMD Ryzen 7,8,SSD,256,17.3,500
+Acer,Model-673,Intel i3,16,SSD,2048,13.3,850
+HP,Model-588,AMD Ryzen 5,32,HDD,256,17.3,2000
+Lenovo,Model-711,Intel i5,8,HDD,1024,15.6,1000
+Lenovo,Model-208,Intel i3,16,SSD,256,17.3,600
+Dell,Model-483,Intel i5,32,HDD,1024,13.3,2000
+Apple,Model-690,Intel i7,16,SSD,512,14.0,1200
+Apple,Model-851,Intel i5,32,HDD,512,14.0,600
+Asus,Model-356,Intel i5,8,HDD,512,17.3,2000
+Dell,Model-927,AMD Ryzen 5,8,HDD,2048,17.3,750
+Dell,Model-162,Intel i3,8,HDD,1024,14.0,1200
+Acer,Model-184,Intel i5,16,HDD,256,15.6,600
+Dell,Model-591,AMD Ryzen 5,8,SSD,512,13.3,2000
+Lenovo,Model-466,Intel i5,4,HDD,512,15.6,600
+Dell,Model-246,AMD Ryzen 5,4,SSD,256,15.6,1000
+Acer,Model-147,Intel i5,32,SSD,1024,14.0,1000
+HP,Model-123,Intel i7,32,HDD,1024,17.3,600
+HP,Model-948,Intel i5,32,HDD,2048,15.6,1200
+Acer,Model-194,Intel i5,32,SSD,1024,15.6,600
+Acer,Model-695,Intel i3,16,SSD,2048,15.6,750
+Microsoft,Model-346,Intel i3,32,HDD,512,13.3,600
+Microsoft,Model-182,AMD Ryzen 5,16,SSD,512,17.3,750
+Lenovo,Model-261,AMD Ryzen 5,8,HDD,2048,17.3,1000
+Apple,Model-967,AMD Ryzen 7,16,HDD,512,15.6,1000
+MSI,Model-542,Intel i7,4,HDD,512,14.0,600
+Asus,Model-118,AMD Ryzen 7,16,SSD,1024,13.3,2000
+Apple,Model-875,AMD Ryzen 5,8,SSD,1024,13.3,2000
+Apple,Model-185,Intel i5,4,HDD,1024,13.3,500
+Asus,Model-692,Intel i7,8,SSD,1024,14.0,1200
+MSI,Model-723,Intel i3,32,SSD,2048,13.3,2000
+Asus,Model-949,Intel i3,32,SSD,2048,13.3,2000
+Dell,Model-326,Intel i3,4,HDD,256,15.6,500
+Apple,Model-635,Intel i3,16,SSD,2048,13.3,500
+Acer,Model-437,Intel i5,4,SSD,256,15.6,1200
+Lenovo,Model-503,AMD Ryzen 7,8,SSD,2048,14.0,1200
+Acer,Model-395,Intel i3,16,HDD,1024,13.3,600
+Microsoft,Model-297,Intel i7,4,HDD,512,15.6,850
+HP,Model-257,AMD Ryzen 7,8,HDD,512,17.3,750
+MSI,Model-527,Intel i3,4,SSD,512,13.3,600
+MSI,Model-979,AMD Ryzen 5,16,SSD,1024,13.3,500
+Apple,Model-356,Intel i5,8,HDD,2048,14.0,850
+HP,Model-153,AMD Ryzen 5,8,SSD,512,15.6,1200
+Asus,Model-726,Intel i5,8,HDD,1024,17.3,1200
+Dell,Model-804,AMD Ryzen 7,16,HDD,1024,17.3,750
+Microsoft,Model-990,Intel i5,8,SSD,2048,13.3,1000
+Dell,Model-345,AMD Ryzen 7,4,SSD,256,17.3,1500
+Apple,Model-351,Intel i3,16,HDD,256,17.3,1000
+Acer,Model-608,AMD Ryzen 5,4,HDD,2048,15.6,600
+Acer,Model-904,AMD Ryzen 7,4,SSD,1024,17.3,850
+Asus,Model-715,AMD Ryzen 7,16,SSD,512,15.6,750
+Acer,Model-999,Intel i3,32,HDD,2048,13.3,750
+Asus,Model-672,AMD Ryzen 7,16,SSD,256,15.6,2000
+MSI,Model-236,AMD Ryzen 7,4,HDD,2048,13.3,1000
+Acer,Model-884,AMD Ryzen 5,4,SSD,256,15.6,750
+Dell,Model-181,AMD Ryzen 7,4,HDD,1024,15.6,1500
+Acer,Model-382,Intel i3,8,SSD,2048,15.6,1000
+Acer,Model-781,AMD Ryzen 7,32,SSD,1024,13.3,1200
+Apple,Model-185,AMD Ryzen 5,16,SSD,256,15.6,1500
+MSI,Model-859,AMD Ryzen 5,8,SSD,512,15.6,1500
+Lenovo,Model-987,AMD Ryzen 5,4,HDD,1024,15.6,500
+MSI,Model-895,Intel i5,32,HDD,256,15.6,2000
+Microsoft,Model-124,AMD Ryzen 7,8,SSD,2048,17.3,600
+HP,Model-460,AMD Ryzen 5,4,HDD,2048,14.0,1500
+Acer,Model-260,AMD Ryzen 5,4,HDD,512,15.6,850
+Asus,Model-637,Intel i7,16,SSD,2048,13.3,1200
+Microsoft,Model-161,Intel i3,4,HDD,1024,14.0,600
+Microsoft,Model-483,Intel i3,8,SSD,2048,17.3,2000
+Dell,Model-747,Intel i7,16,SSD,1024,14.0,1000
+Acer,Model-364,AMD Ryzen 7,8,SSD,2048,14.0,600
+Asus,Model-354,AMD Ryzen 7,8,SSD,256,15.6,1000
+Dell,Model-526,Intel i5,4,SSD,256,15.6,600
+Asus,Model-529,Intel i3,32,SSD,256,13.3,500
+Acer,Model-365,Intel i5,4,HDD,1024,15.6,850
+Dell,Model-216,AMD Ryzen 5,8,HDD,512,15.6,1500
+Acer,Model-556,Intel i5,16,SSD,512,15.6,1000
+Dell,Model-824,Intel i5,8,SSD,1024,13.3,850
+Lenovo,Model-561,AMD Ryzen 7,16,HDD,512,15.6,500
+Microsoft,Model-239,Intel i5,4,HDD,1024,14.0,1200
+Lenovo,Model-669,Intel i7,8,HDD,256,17.3,750
+Lenovo,Model-659,Intel i5,4,HDD,256,13.3,500
+Asus,Model-802,Intel i7,32,HDD,2048,15.6,1000
+Microsoft,Model-279,AMD Ryzen 5,16,SSD,2048,14.0,1200
+Microsoft,Model-823,Intel i7,16,SSD,2048,17.3,2000
+Lenovo,Model-661,Intel i3,8,SSD,256,17.3,600
+Acer,Model-485,AMD Ryzen 5,8,HDD,1024,14.0,1200
+Apple,Model-867,AMD Ryzen 5,32,HDD,2048,13.3,850
+HP,Model-896,Intel i3,8,HDD,256,15.6,850
+Dell,Model-404,AMD Ryzen 5,8,HDD,2048,15.6,1500
+Asus,Model-161,Intel i7,8,SSD,2048,14.0,2000
+Dell,Model-687,Intel i7,4,HDD,1024,17.3,1500
+Dell,Model-822,AMD Ryzen 5,4,HDD,2048,13.3,2000
+Lenovo,Model-549,Intel i7,32,SSD,2048,13.3,850
+MSI,Model-332,Intel i5,16,SSD,1024,14.0,850
+Dell,Model-235,Intel i7,16,SSD,1024,15.6,1000
+Apple,Model-128,Intel i3,16,SSD,2048,13.3,1500
+Dell,Model-590,Intel i7,32,HDD,256,17.3,500
+HP,Model-264,AMD Ryzen 5,32,SSD,512,14.0,750
+Acer,Model-561,Intel i5,8,SSD,512,17.3,850
+Asus,Model-291,AMD Ryzen 5,4,HDD,2048,17.3,2000
+Acer,Model-136,AMD Ryzen 5,8,SSD,2048,13.3,1200
+Dell,Model-133,Intel i3,8,SSD,256,15.6,500
+Asus,Model-723,Intel i3,4,SSD,256,14.0,750
+MSI,Model-756,Intel i3,32,HDD,256,14.0,600
+Apple,Model-654,Intel i3,8,SSD,2048,14.0,600
+Lenovo,Model-115,AMD Ryzen 7,8,HDD,512,17.3,600
+Apple,Model-112,Intel i3,16,SSD,512,13.3,600
+Microsoft,Model-420,AMD Ryzen 7,16,HDD,1024,17.3,600
+Acer,Model-475,Intel i3,32,HDD,1024,15.6,750
+Lenovo,Model-153,AMD Ryzen 5,8,SSD,256,15.6,1500
+MSI,Model-204,Intel i5,16,SSD,1024,15.6,2000
+Acer,Model-285,AMD Ryzen 5,32,SSD,2048,13.3,850
+Dell,Model-683,AMD Ryzen 5,4,SSD,256,15.6,850
+HP,Model-526,AMD Ryzen 5,16,HDD,1024,13.3,2000
+Apple,Model-159,AMD Ryzen 7,8,SSD,1024,15.6,2000
+HP,Model-445,Intel i3,8,HDD,512,17.3,1200
+Apple,Model-326,Intel i5,16,HDD,1024,13.3,850
+HP,Model-262,AMD Ryzen 7,8,HDD,256,15.6,2000
+MSI,Model-597,Intel i5,16,HDD,512,14.0,2000
+HP,Model-688,Intel i5,4,HDD,2048,13.3,1200
+Apple,Model-778,Intel i3,32,HDD,2048,14.0,1500
+Apple,Model-274,Intel i3,4,HDD,1024,14.0,500
+MSI,Model-886,AMD Ryzen 5,4,SSD,2048,15.6,1000
+MSI,Model-515,Intel i7,8,SSD,512,17.3,600
+HP,Model-169,AMD Ryzen 5,16,SSD,256,17.3,500
+HP,Model-710,Intel i3,16,HDD,2048,17.3,600
+Apple,Model-845,Intel i5,8,SSD,2048,14.0,850
+Asus,Model-167,Intel i3,4,HDD,1024,17.3,600
+Apple,Model-779,AMD Ryzen 5,32,HDD,2048,17.3,2000
+HP,Model-103,Intel i3,32,HDD,256,13.3,500
+HP,Model-160,AMD Ryzen 5,4,SSD,1024,13.3,850
+Acer,Model-112,AMD Ryzen 7,32,HDD,1024,14.0,750
+Acer,Model-331,Intel i5,32,HDD,256,14.0,2000
+Apple,Model-431,Intel i5,4,HDD,256,17.3,1000
+Dell,Model-684,Intel i3,4,SSD,256,17.3,500
+MSI,Model-205,Intel i7,32,HDD,256,14.0,2000
+Apple,Model-568,Intel i7,16,HDD,2048,14.0,850
+Dell,Model-817,AMD Ryzen 5,4,SSD,512,15.6,500
+Apple,Model-890,Intel i5,4,SSD,1024,14.0,600
+HP,Model-417,Intel i7,32,HDD,256,14.0,750
+MSI,Model-783,Intel i7,32,SSD,512,14.0,500
+HP,Model-315,Intel i7,32,HDD,1024,15.6,500
+Acer,Model-511,Intel i7,16,SSD,2048,13.3,850
+MSI,Model-856,Intel i3,4,HDD,2048,13.3,1500
+Dell,Model-624,Intel i7,32,SSD,512,15.6,1000
+Apple,Model-299,Intel i3,16,HDD,256,13.3,2000
+Dell,Model-186,AMD Ryzen 7,4,HDD,1024,14.0,1000
+MSI,Model-867,Intel i7,32,SSD,2048,15.6,750
+Dell,Model-838,Intel i7,16,SSD,512,14.0,1000
+Dell,Model-645,AMD Ryzen 5,32,SSD,2048,15.6,1000
+Acer,Model-707,Intel i7,4,SSD,512,15.6,2000
+MSI,Model-255,Intel i3,4,SSD,512,14.0,500
+Acer,Model-154,Intel i3,16,SSD,256,17.3,1000
+Lenovo,Model-899,AMD Ryzen 5,16,HDD,2048,14.0,1200
+Asus,Model-734,Intel i5,4,SSD,512,13.3,850
+MSI,Model-472,Intel i3,4,SSD,2048,17.3,750
+Apple,Model-736,Intel i3,16,HDD,2048,14.0,600
+Microsoft,Model-875,Intel i7,8,HDD,2048,14.0,1500
+Dell,Model-659,Intel i5,4,SSD,512,15.6,1000
+Apple,Model-669,Intel i3,4,SSD,2048,15.6,1500
+Apple,Model-864,AMD Ryzen 7,8,SSD,512,14.0,2000
+Asus,Model-373,Intel i7,8,HDD,1024,15.6,750
+Dell,Model-267,Intel i3,16,SSD,2048,15.6,2000
+MSI,Model-367,Intel i3,16,HDD,1024,13.3,500
+Apple,Model-705,Intel i3,16,SSD,256,17.3,500
+Acer,Model-572,AMD Ryzen 7,8,SSD,512,15.6,500
+Dell,Model-620,Intel i5,8,SSD,256,17.3,750
+HP,Model-624,AMD Ryzen 7,4,SSD,1024,13.3,600
+MSI,Model-206,Intel i3,8,SSD,256,15.6,600
+Asus,Model-411,Intel i7,16,SSD,256,13.3,500
+Dell,Model-990,AMD Ryzen 5,32,HDD,512,14.0,750
+Apple,Model-461,AMD Ryzen 5,16,HDD,1024,13.3,1200
+Acer,Model-767,Intel i5,8,HDD,512,15.6,1500
+Acer,Model-656,Intel i3,4,SSD,2048,14.0,850
+Asus,Model-573,AMD Ryzen 5,32,SSD,1024,15.6,850
+Apple,Model-346,Intel i5,8,SSD,1024,15.6,2000
+Asus,Model-723,AMD Ryzen 7,4,HDD,1024,14.0,2000
+Acer,Model-509,AMD Ryzen 5,16,SSD,256,14.0,850
+Microsoft,Model-162,AMD Ryzen 5,16,HDD,1024,13.3,1200
+Dell,Model-493,AMD Ryzen 7,16,HDD,1024,13.3,1200
+Apple,Model-403,AMD Ryzen 7,32,SSD,512,14.0,850
+Asus,Model-945,AMD Ryzen 5,32,SSD,1024,13.3,1000
+Asus,Model-391,AMD Ryzen 5,8,HDD,1024,14.0,1500
+Microsoft,Model-231,Intel i7,16,SSD,256,15.6,1500
+MSI,Model-577,AMD Ryzen 5,16,SSD,1024,13.3,2000
+Lenovo,Model-485,AMD Ryzen 7,4,SSD,1024,13.3,850
+Dell,Model-880,AMD Ryzen 5,8,HDD,512,15.6,750
+Apple,Model-315,Intel i3,4,HDD,2048,17.3,2000
+Asus,Model-745,Intel i5,16,SSD,256,13.3,1500
+Apple,Model-368,Intel i5,4,SSD,2048,17.3,500
+Microsoft,Model-757,Intel i3,4,HDD,256,17.3,1500
+Microsoft,Model-773,AMD Ryzen 5,32,SSD,2048,13.3,1500
+HP,Model-456,Intel i5,32,SSD,2048,13.3,750
+Microsoft,Model-989,AMD Ryzen 7,32,HDD,512,14.0,500
+Apple,Model-718,AMD Ryzen 7,32,HDD,512,13.3,850
+Asus,Model-779,Intel i7,4,HDD,256,13.3,1200
+Apple,Model-320,Intel i5,4,SSD,2048,13.3,1500
+Lenovo,Model-499,Intel i7,8,SSD,2048,14.0,1000
+Acer,Model-384,Intel i7,8,SSD,1024,13.3,750
+HP,Model-417,Intel i7,16,HDD,1024,15.6,1000
+MSI,Model-853,AMD Ryzen 7,16,HDD,1024,17.3,850
+Microsoft,Model-136,Intel i3,32,SSD,512,13.3,850
+Microsoft,Model-275,Intel i3,8,HDD,512,17.3,2000
+Lenovo,Model-797,AMD Ryzen 5,16,HDD,256,13.3,600
+Acer,Model-917,Intel i5,4,SSD,256,13.3,1500
+HP,Model-877,AMD Ryzen 7,8,HDD,512,15.6,2000
+Lenovo,Model-998,AMD Ryzen 5,8,HDD,512,15.6,2000
+Apple,Model-666,Intel i7,16,SSD,1024,13.3,2000
+Dell,Model-452,AMD Ryzen 7,8,HDD,1024,14.0,750
+HP,Model-455,AMD Ryzen 5,8,SSD,1024,17.3,750
+MSI,Model-158,AMD Ryzen 5,16,SSD,2048,13.3,500
+Dell,Model-502,Intel i7,32,SSD,2048,17.3,2000
+MSI,Model-538,Intel i3,16,SSD,512,13.3,1000
+Lenovo,Model-286,AMD Ryzen 5,4,HDD,512,17.3,1000
+Lenovo,Model-552,Intel i5,32,SSD,1024,17.3,1000
+Microsoft,Model-725,Intel i7,32,HDD,256,14.0,1200
+HP,Model-821,AMD Ryzen 5,32,HDD,2048,14.0,1000
+Lenovo,Model-460,AMD Ryzen 5,32,HDD,256,14.0,1000
+Microsoft,Model-829,Intel i3,4,HDD,256,15.6,500
+HP,Model-130,Intel i5,4,SSD,512,15.6,850
+Lenovo,Model-156,AMD Ryzen 7,8,HDD,256,17.3,1500
+HP,Model-232,Intel i5,32,SSD,2048,15.6,850
+Acer,Model-351,AMD Ryzen 5,16,HDD,256,14.0,850
+MSI,Model-986,Intel i5,4,SSD,2048,14.0,750
+Lenovo,Model-628,Intel i3,16,HDD,1024,17.3,600
+Acer,Model-990,AMD Ryzen 7,8,HDD,1024,14.0,1500
+Microsoft,Model-596,Intel i7,32,HDD,2048,17.3,1000
+Lenovo,Model-493,Intel i5,4,SSD,2048,17.3,1500
+Dell,Model-490,Intel i3,16,SSD,256,13.3,850
+HP,Model-767,AMD Ryzen 7,16,HDD,1024,17.3,850
+Asus,Model-821,Intel i7,16,HDD,512,15.6,1200
+Microsoft,Model-636,AMD Ryzen 7,32,SSD,256,13.3,1500
+Microsoft,Model-543,AMD Ryzen 7,16,HDD,256,17.3,1200
+Dell,Model-139,AMD Ryzen 5,16,HDD,256,17.3,1000
+Asus,Model-430,AMD Ryzen 7,16,HDD,256,13.3,850
+Acer,Model-881,AMD Ryzen 5,32,HDD,2048,17.3,600
+HP,Model-440,Intel i5,4,HDD,512,14.0,2000
+Microsoft,Model-157,AMD Ryzen 5,8,HDD,512,14.0,750
+Acer,Model-538,Intel i3,8,SSD,2048,17.3,600
+Asus,Model-554,Intel i5,8,HDD,256,14.0,600
+Apple,Model-606,Intel i3,4,SSD,512,15.6,1000
+Asus,Model-809,AMD Ryzen 7,8,SSD,2048,13.3,750
+HP,Model-130,Intel i5,32,HDD,1024,15.6,1000
+HP,Model-860,Intel i5,16,HDD,1024,15.6,850
+HP,Model-464,AMD Ryzen 5,32,HDD,1024,17.3,1500
+Asus,Model-882,AMD Ryzen 7,4,SSD,256,17.3,600
+Acer,Model-691,Intel i3,16,HDD,512,15.6,750
+MSI,Model-110,Intel i7,8,SSD,1024,15.6,1500
+Acer,Model-653,Intel i7,32,HDD,256,14.0,1000
+HP,Model-683,Intel i5,32,SSD,2048,13.3,1500
+Dell,Model-786,Intel i5,16,HDD,512,15.6,750
+Microsoft,Model-516,Intel i7,4,SSD,2048,13.3,500
+Microsoft,Model-395,AMD Ryzen 7,16,SSD,256,17.3,2000
+Acer,Model-931,AMD Ryzen 7,32,SSD,256,15.6,2000
+Dell,Model-943,AMD Ryzen 7,8,SSD,1024,15.6,1500
+Apple,Model-417,Intel i5,32,SSD,256,14.0,750
+Lenovo,Model-630,Intel i7,32,HDD,256,13.3,850
+Acer,Model-315,Intel i3,8,HDD,256,13.3,850
+Apple,Model-880,AMD Ryzen 5,16,HDD,512,17.3,750
+Microsoft,Model-669,Intel i5,8,SSD,512,13.3,500
+Asus,Model-722,Intel i5,4,HDD,2048,13.3,750
+HP,Model-746,Intel i5,8,SSD,1024,13.3,500
+Acer,Model-416,AMD Ryzen 5,32,SSD,256,13.3,1200
+Apple,Model-340,Intel i3,8,SSD,256,13.3,600
+Asus,Model-726,Intel i5,4,HDD,512,17.3,2000
+Lenovo,Model-100,Intel i7,16,HDD,256,17.3,1000
+Dell,Model-628,AMD Ryzen 5,8,SSD,1024,15.6,1200
+HP,Model-977,Intel i5,32,HDD,1024,15.6,1200
+Asus,Model-209,Intel i7,32,HDD,256,13.3,1200
+Lenovo,Model-116,Intel i3,8,HDD,256,15.6,850
+HP,Model-264,Intel i3,8,SSD,256,15.6,1000
+Asus,Model-500,Intel i5,4,HDD,256,15.6,500
+Dell,Model-649,AMD Ryzen 7,16,HDD,1024,14.0,500
+Acer,Model-455,AMD Ryzen 7,32,HDD,256,13.3,750
+MSI,Model-239,AMD Ryzen 5,4,SSD,256,15.6,1500
+Dell,Model-521,AMD Ryzen 5,4,HDD,1024,15.6,500
+Apple,Model-673,Intel i7,16,HDD,256,15.6,750
+MSI,Model-241,AMD Ryzen 5,16,SSD,512,15.6,1500
+Apple,Model-467,Intel i3,4,HDD,2048,14.0,750
+HP,Model-523,Intel i5,16,SSD,256,15.6,2000
+Lenovo,Model-444,AMD Ryzen 7,4,SSD,2048,17.3,750
+Acer,Model-732,AMD Ryzen 7,4,SSD,2048,17.3,1200
+Microsoft,Model-163,AMD Ryzen 7,8,SSD,1024,17.3,1000
+Lenovo,Model-928,Intel i7,4,SSD,512,15.6,1000
+Lenovo,Model-516,Intel i3,32,HDD,1024,15.6,750
+Acer,Model-421,Intel i7,16,SSD,1024,17.3,600
+Apple,Model-518,Intel i7,32,SSD,2048,13.3,600
+Dell,Model-551,Intel i3,4,HDD,2048,14.0,600
+Dell,Model-945,AMD Ryzen 5,8,SSD,1024,15.6,2000
+Lenovo,Model-243,AMD Ryzen 7,32,HDD,2048,17.3,2000
+Apple,Model-456,Intel i5,16,HDD,256,15.6,500
+Dell,Model-629,Intel i7,16,HDD,256,15.6,600
+Microsoft,Model-507,AMD Ryzen 7,32,HDD,256,13.3,850
+Microsoft,Model-884,Intel i5,32,HDD,2048,13.3,500
+HP,Model-545,Intel i5,32,HDD,1024,14.0,500
+Apple,Model-566,Intel i5,16,HDD,256,13.3,1000
+Dell,Model-348,AMD Ryzen 5,32,HDD,256,17.3,2000
+Dell,Model-832,Intel i5,8,SSD,2048,17.3,500
+HP,Model-586,Intel i3,8,SSD,2048,14.0,1000
+Asus,Model-712,AMD Ryzen 7,16,HDD,2048,15.6,750
+Acer,Model-553,Intel i7,8,SSD,256,14.0,1200
+MSI,Model-735,Intel i3,8,SSD,256,15.6,500
+Asus,Model-697,AMD Ryzen 7,4,HDD,256,13.3,1500
+Dell,Model-549,Intel i7,4,HDD,2048,15.6,1000
+Lenovo,Model-717,Intel i5,8,HDD,2048,15.6,1000
+Dell,Model-973,AMD Ryzen 5,16,SSD,512,15.6,500
+Acer,Model-609,Intel i3,8,SSD,1024,17.3,1200
+Apple,Model-633,AMD Ryzen 5,32,SSD,256,14.0,750
+MSI,Model-786,Intel i5,16,SSD,512,17.3,850
+Microsoft,Model-678,AMD Ryzen 5,16,SSD,2048,13.3,2000
+Lenovo,Model-985,Intel i3,32,SSD,256,14.0,750
+Microsoft,Model-138,AMD Ryzen 5,32,HDD,1024,17.3,2000
+HP,Model-414,AMD Ryzen 7,16,SSD,1024,14.0,1200
+Acer,Model-384,Intel i5,8,SSD,256,13.3,2000
+MSI,Model-219,Intel i3,8,HDD,256,13.3,2000
+Asus,Model-934,AMD Ryzen 7,32,SSD,2048,14.0,750
+Acer,Model-315,Intel i3,32,HDD,512,15.6,1200
+Asus,Model-179,AMD Ryzen 5,16,HDD,1024,13.3,1500
+Apple,Model-644,Intel i5,4,HDD,512,17.3,2000
+Dell,Model-687,Intel i3,32,SSD,2048,15.6,600
+Asus,Model-706,Intel i7,16,HDD,2048,15.6,600
+Acer,Model-774,Intel i3,32,SSD,1024,14.0,1200
+Dell,Model-820,Intel i5,16,HDD,512,15.6,2000
+Lenovo,Model-161,Intel i3,4,SSD,512,13.3,1500
+Dell,Model-318,Intel i5,8,HDD,512,15.6,2000
+HP,Model-467,AMD Ryzen 5,8,SSD,1024,13.3,600
+Dell,Model-526,AMD Ryzen 5,4,HDD,256,17.3,1200
+HP,Model-936,AMD Ryzen 7,8,SSD,1024,15.6,2000
+Lenovo,Model-776,AMD Ryzen 7,4,SSD,256,14.0,850
+Asus,Model-924,AMD Ryzen 7,8,HDD,2048,17.3,1000
+HP,Model-855,AMD Ryzen 5,16,HDD,256,15.6,500
+Lenovo,Model-727,AMD Ryzen 7,8,HDD,2048,13.3,600
+Dell,Model-101,Intel i7,4,HDD,2048,17.3,850
+HP,Model-982,Intel i5,16,SSD,1024,17.3,1200
+Microsoft,Model-872,Intel i5,32,HDD,512,15.6,1000
+HP,Model-821,Intel i7,4,HDD,512,13.3,850
+Apple,Model-534,AMD Ryzen 7,16,HDD,256,17.3,850
+Acer,Model-764,Intel i7,4,HDD,2048,13.3,750
+Acer,Model-421,AMD Ryzen 7,32,SSD,1024,17.3,600
+Acer,Model-473,Intel i7,32,SSD,1024,13.3,2000
+MSI,Model-844,Intel i5,4,HDD,512,17.3,1500
+Lenovo,Model-442,Intel i3,32,HDD,1024,13.3,500
+Microsoft,Model-718,Intel i5,16,HDD,1024,14.0,1000
+Asus,Model-746,Intel i5,8,SSD,1024,14.0,2000
+Asus,Model-748,AMD Ryzen 5,8,SSD,2048,17.3,2000
+HP,Model-665,AMD Ryzen 7,4,HDD,256,15.6,600
+Asus,Model-799,AMD Ryzen 7,32,HDD,512,17.3,1500
+Dell,Model-141,AMD Ryzen 7,16,SSD,512,17.3,750
+MSI,Model-583,AMD Ryzen 5,4,HDD,2048,15.6,850
+Asus,Model-633,AMD Ryzen 7,4,SSD,256,13.3,2000
+Acer,Model-998,Intel i3,4,SSD,512,17.3,1200
+Dell,Model-119,AMD Ryzen 7,32,HDD,512,15.6,2000
+Lenovo,Model-926,AMD Ryzen 7,32,SSD,256,15.6,850
+Lenovo,Model-193,Intel i7,32,HDD,1024,14.0,1500
+Asus,Model-580,AMD Ryzen 7,16,SSD,2048,14.0,500
+MSI,Model-722,AMD Ryzen 7,16,SSD,256,15.6,600
+Lenovo,Model-141,Intel i5,16,HDD,256,13.3,2000
+Lenovo,Model-777,Intel i7,16,HDD,256,14.0,2000
+HP,Model-334,Intel i3,16,HDD,2048,17.3,1200
+Acer,Model-921,AMD Ryzen 5,4,SSD,2048,15.6,1000
+Apple,Model-281,AMD Ryzen 7,16,HDD,256,13.3,1200
+Microsoft,Model-997,Intel i5,32,SSD,256,13.3,1000
+HP,Model-564,AMD Ryzen 5,16,HDD,2048,13.3,1200
+Apple,Model-718,Intel i5,16,SSD,1024,15.6,500
+Apple,Model-696,AMD Ryzen 7,16,HDD,512,15.6,850
+Asus,Model-610,AMD Ryzen 5,16,HDD,1024,14.0,850
+Acer,Model-793,Intel i5,16,HDD,512,15.6,1000
+Apple,Model-176,Intel i7,16,SSD,256,17.3,1000
+HP,Model-587,AMD Ryzen 7,32,HDD,512,13.3,600
+Lenovo,Model-616,Intel i7,4,HDD,256,17.3,500
+MSI,Model-126,Intel i7,4,SSD,1024,14.0,500
+Acer,Model-435,Intel i5,32,SSD,2048,13.3,500
+Dell,Model-312,Intel i5,16,SSD,512,15.6,500
+Asus,Model-768,AMD Ryzen 5,4,HDD,512,15.6,850
+Dell,Model-397,AMD Ryzen 7,16,SSD,256,15.6,2000
+Dell,Model-572,AMD Ryzen 5,16,HDD,1024,17.3,850
+Asus,Model-994,Intel i3,4,HDD,512,13.3,1000
+HP,Model-941,Intel i7,32,SSD,256,14.0,2000
+HP,Model-629,Intel i5,32,HDD,2048,17.3,1500
+Lenovo,Model-359,Intel i3,8,HDD,256,15.6,1500
+Dell,Model-652,AMD Ryzen 7,8,SSD,256,13.3,600
+MSI,Model-504,Intel i7,16,SSD,512,15.6,1200
+MSI,Model-591,Intel i3,4,HDD,2048,14.0,750
+HP,Model-525,Intel i5,4,SSD,2048,13.3,2000
+MSI,Model-452,Intel i5,8,HDD,1024,17.3,500
+Microsoft,Model-678,AMD Ryzen 7,8,SSD,2048,13.3,600
+Dell,Model-578,AMD Ryzen 7,32,HDD,256,17.3,850
+Asus,Model-850,Intel i3,8,SSD,2048,17.3,850
+Dell,Model-644,Intel i3,8,HDD,1024,15.6,850
+Apple,Model-985,Intel i5,8,HDD,1024,17.3,600
+HP,Model-810,Intel i3,32,HDD,2048,15.6,2000
+MSI,Model-527,AMD Ryzen 5,32,SSD,1024,14.0,2000
+Microsoft,Model-334,Intel i5,8,SSD,512,13.3,1200
+Acer,Model-643,AMD Ryzen 5,8,HDD,256,15.6,1500
+Microsoft,Model-384,Intel i3,4,SSD,512,13.3,1500
+Apple,Model-765,Intel i3,16,HDD,512,15.6,1000
+Microsoft,Model-767,Intel i3,16,HDD,1024,13.3,1000
+Dell,Model-450,Intel i5,8,HDD,512,17.3,1500
+Microsoft,Model-503,AMD Ryzen 5,32,HDD,512,13.3,1200
+Apple,Model-717,AMD Ryzen 7,32,HDD,512,13.3,1200
+Acer,Model-390,Intel i5,16,SSD,512,14.0,2000
+Dell,Model-722,Intel i3,16,HDD,512,17.3,1500
+HP,Model-763,Intel i7,16,HDD,1024,15.6,1000
+Apple,Model-539,Intel i5,32,SSD,512,17.3,500
+Microsoft,Model-647,AMD Ryzen 5,4,SSD,256,15.6,1500
+HP,Model-884,AMD Ryzen 7,32,HDD,512,13.3,2000
+MSI,Model-490,Intel i7,8,HDD,2048,13.3,600
+Asus,Model-106,Intel i3,8,HDD,512,13.3,2000
+Microsoft,Model-884,Intel i7,8,SSD,1024,14.0,750
+MSI,Model-548,AMD Ryzen 7,8,HDD,512,17.3,850
+Acer,Model-727,AMD Ryzen 5,4,SSD,2048,13.3,500
+Lenovo,Model-498,Intel i5,4,HDD,256,14.0,1200
+Microsoft,Model-655,Intel i3,16,HDD,2048,14.0,1000
+Microsoft,Model-763,AMD Ryzen 5,32,HDD,2048,13.3,500
+Apple,Model-453,Intel i7,8,SSD,256,15.6,1000
+Asus,Model-172,Intel i3,32,SSD,256,17.3,2000
+Asus,Model-317,AMD Ryzen 5,32,HDD,256,17.3,850
+MSI,Model-809,Intel i7,8,HDD,2048,15.6,1000
+Acer,Model-844,AMD Ryzen 7,16,SSD,512,17.3,1200
+Apple,Model-826,Intel i5,8,HDD,2048,14.0,750
+HP,Model-645,Intel i3,8,SSD,1024,13.3,2000
+Acer,Model-853,Intel i3,32,HDD,2048,17.3,600
+Acer,Model-404,Intel i3,32,SSD,256,13.3,1000
+Dell,Model-440,Intel i7,8,HDD,512,15.6,1500
+Lenovo,Model-458,AMD Ryzen 7,32,SSD,1024,14.0,1500
+Dell,Model-201,Intel i3,8,SSD,256,17.3,1500
+Acer,Model-938,Intel i5,8,SSD,256,17.3,1000
+Microsoft,Model-697,Intel i5,32,HDD,1024,13.3,1000
+Acer,Model-825,AMD Ryzen 5,4,SSD,1024,15.6,750
+MSI,Model-637,Intel i5,32,HDD,2048,13.3,1000
+Apple,Model-670,Intel i7,4,SSD,1024,17.3,500
+Dell,Model-714,Intel i5,16,HDD,256,13.3,500
+Dell,Model-465,Intel i7,8,HDD,2048,14.0,2000
+Asus,Model-122,Intel i3,16,HDD,256,15.6,600
+Lenovo,Model-744,Intel i5,32,SSD,1024,15.6,850
+Acer,Model-283,AMD Ryzen 5,8,HDD,512,14.0,1200
+Dell,Model-676,Intel i5,4,SSD,512,17.3,2000
+Apple,Model-909,Intel i3,4,SSD,512,13.3,850
+Asus,Model-973,Intel i5,16,SSD,256,13.3,600
+Microsoft,Model-811,Intel i5,16,SSD,2048,14.0,1000
+Acer,Model-257,Intel i5,16,SSD,1024,14.0,1500
+Dell,Model-132,AMD Ryzen 7,8,HDD,2048,17.3,1500
+Lenovo,Model-197,Intel i5,4,HDD,1024,13.3,750
+Asus,Model-269,Intel i7,8,SSD,1024,17.3,1500
+MSI,Model-206,AMD Ryzen 7,4,SSD,256,15.6,750
+Apple,Model-596,Intel i7,8,HDD,2048,15.6,1000
+Apple,Model-516,Intel i5,8,HDD,256,15.6,1200
+Asus,Model-915,Intel i7,4,SSD,2048,13.3,850
+MSI,Model-372,AMD Ryzen 7,16,SSD,1024,13.3,1000
+Dell,Model-206,Intel i3,8,HDD,2048,17.3,750
+Acer,Model-692,Intel i7,4,SSD,1024,13.3,2000
+MSI,Model-189,Intel i3,8,HDD,512,14.0,1000
+Lenovo,Model-168,Intel i7,16,HDD,1024,14.0,1000
+HP,Model-239,Intel i7,4,HDD,256,17.3,750
+Lenovo,Model-652,AMD Ryzen 7,16,SSD,1024,15.6,750
+Lenovo,Model-537,Intel i5,4,SSD,2048,17.3,1200
+Lenovo,Model-486,AMD Ryzen 7,16,HDD,1024,17.3,1000
+Lenovo,Model-546,Intel i5,4,HDD,2048,17.3,500
+Acer,Model-180,AMD Ryzen 7,8,SSD,2048,15.6,500
+Microsoft,Model-913,Intel i5,4,HDD,256,17.3,600
+Microsoft,Model-853,Intel i3,4,SSD,2048,13.3,2000
+Asus,Model-287,Intel i5,32,SSD,512,14.0,600
+Acer,Model-551,Intel i5,32,HDD,1024,13.3,500
+Lenovo,Model-762,Intel i5,8,HDD,2048,13.3,2000
+Apple,Model-764,AMD Ryzen 5,16,HDD,256,15.6,600
+Apple,Model-706,Intel i7,8,SSD,1024,14.0,750
+Acer,Model-999,Intel i7,4,HDD,2048,15.6,2000
+Asus,Model-201,Intel i3,8,HDD,2048,13.3,750
+Acer,Model-472,AMD Ryzen 7,16,HDD,256,13.3,850
+MSI,Model-230,Intel i5,32,HDD,1024,17.3,600
+Asus,Model-432,AMD Ryzen 7,4,SSD,512,13.3,500
+HP,Model-323,Intel i3,8,SSD,256,15.6,750
+HP,Model-113,Intel i5,4,HDD,256,14.0,850
+MSI,Model-110,Intel i3,8,HDD,1024,15.6,2000
+Asus,Model-453,Intel i7,32,SSD,256,15.6,1500
+Microsoft,Model-420,Intel i5,4,HDD,2048,13.3,1200
+MSI,Model-204,Intel i7,8,SSD,2048,13.3,600
+HP,Model-140,Intel i5,32,HDD,512,14.0,600
+Apple,Model-697,Intel i5,16,SSD,1024,15.6,1500
+MSI,Model-867,AMD Ryzen 5,16,SSD,2048,13.3,750
+HP,Model-245,Intel i5,8,SSD,2048,15.6,1200
+Lenovo,Model-200,AMD Ryzen 5,32,HDD,512,17.3,600
+HP,Model-345,AMD Ryzen 7,32,SSD,1024,13.3,600
+HP,Model-229,AMD Ryzen 7,32,SSD,2048,13.3,600
+Dell,Model-661,Intel i5,4,SSD,256,15.6,1000
+Acer,Model-173,Intel i5,8,HDD,512,14.0,1000
+Acer,Model-637,AMD Ryzen 5,32,HDD,256,17.3,750
+Lenovo,Model-626,AMD Ryzen 5,16,SSD,512,14.0,2000
+Microsoft,Model-930,Intel i5,16,HDD,2048,17.3,600
+Apple,Model-879,Intel i3,8,HDD,512,17.3,1200
+HP,Model-707,Intel i3,32,HDD,2048,17.3,2000
+Microsoft,Model-233,Intel i5,8,HDD,256,15.6,1200
+Dell,Model-878,AMD Ryzen 5,32,HDD,256,13.3,500
+MSI,Model-884,Intel i3,16,HDD,1024,15.6,750
+Lenovo,Model-127,Intel i7,32,HDD,1024,13.3,600
+Apple,Model-455,AMD Ryzen 7,16,HDD,256,17.3,750
+Lenovo,Model-708,AMD Ryzen 5,8,SSD,1024,17.3,2000
+Microsoft,Model-821,AMD Ryzen 7,16,SSD,2048,13.3,2000
+Lenovo,Model-947,AMD Ryzen 7,16,SSD,2048,13.3,1000
+Lenovo,Model-508,AMD Ryzen 5,4,HDD,256,13.3,500
+Apple,Model-184,AMD Ryzen 7,32,HDD,2048,14.0,2000
+Apple,Model-263,Intel i3,32,HDD,2048,13.3,2000
+Apple,Model-645,Intel i5,8,HDD,512,17.3,500
+HP,Model-697,Intel i7,16,SSD,256,13.3,500
+Acer,Model-933,Intel i5,16,HDD,2048,14.0,750
+Asus,Model-272,Intel i7,16,SSD,256,17.3,500
+HP,Model-355,Intel i3,4,SSD,256,13.3,1500
+Dell,Model-616,Intel i3,16,HDD,512,17.3,1200
+Microsoft,Model-879,Intel i7,32,HDD,2048,14.0,1000
+MSI,Model-256,AMD Ryzen 7,16,HDD,2048,17.3,850
+Apple,Model-744,Intel i5,32,HDD,256,13.3,2000
+HP,Model-433,AMD Ryzen 5,8,SSD,512,14.0,1000
+Dell,Model-629,Intel i3,16,HDD,256,14.0,1200
+Lenovo,Model-410,AMD Ryzen 5,16,SSD,256,17.3,2000
+Microsoft,Model-397,AMD Ryzen 5,8,HDD,512,17.3,850
+Acer,Model-141,Intel i7,8,HDD,256,14.0,850
+Acer,Model-622,AMD Ryzen 5,32,HDD,512,15.6,850
+MSI,Model-155,Intel i3,32,SSD,512,15.6,2000
+MSI,Model-699,AMD Ryzen 5,4,HDD,1024,14.0,850
+Asus,Model-611,Intel i3,16,HDD,256,17.3,1200
+Apple,Model-203,AMD Ryzen 7,4,SSD,512,17.3,2000
+MSI,Model-882,AMD Ryzen 7,4,SSD,2048,15.6,1000
+Lenovo,Model-341,Intel i7,16,SSD,1024,14.0,2000
+Dell,Model-544,AMD Ryzen 7,32,HDD,2048,15.6,1500
+Apple,Model-766,Intel i3,32,HDD,1024,15.6,750
+Asus,Model-502,Intel i3,32,HDD,256,17.3,500
+HP,Model-920,Intel i7,8,SSD,1024,14.0,600
+Microsoft,Model-909,Intel i7,4,HDD,2048,13.3,750
+Lenovo,Model-410,Intel i3,32,SSD,512,17.3,1200
+Apple,Model-772,AMD Ryzen 5,4,HDD,2048,17.3,850
+Acer,Model-920,AMD Ryzen 7,32,SSD,1024,13.3,500
+Asus,Model-451,Intel i7,16,SSD,1024,14.0,750
+Microsoft,Model-462,Intel i3,4,HDD,2048,15.6,1200
+Asus,Model-678,Intel i3,32,SSD,2048,14.0,850
+Dell,Model-610,Intel i7,32,HDD,512,13.3,750
+MSI,Model-919,Intel i7,4,HDD,2048,13.3,500
+Lenovo,Model-144,AMD Ryzen 5,16,HDD,1024,13.3,500
+Asus,Model-496,Intel i3,4,SSD,256,17.3,1000
+Dell,Model-255,Intel i3,4,HDD,2048,13.3,750
+Microsoft,Model-376,AMD Ryzen 5,4,HDD,256,15.6,2000
+Asus,Model-529,Intel i3,8,HDD,512,15.6,850
+MSI,Model-254,Intel i7,4,SSD,256,15.6,1500
+Lenovo,Model-496,Intel i7,16,SSD,1024,14.0,1500
+Dell,Model-691,Intel i3,16,SSD,1024,13.3,1000
+Lenovo,Model-856,Intel i7,4,HDD,2048,13.3,1200
+Apple,Model-423,Intel i7,8,SSD,2048,14.0,500
+Asus,Model-282,Intel i5,8,SSD,1024,17.3,1200
+Asus,Model-849,AMD Ryzen 7,8,SSD,512,13.3,1500
+MSI,Model-824,Intel i7,8,SSD,2048,14.0,750
+Microsoft,Model-677,AMD Ryzen 5,4,HDD,2048,17.3,600
+Acer,Model-264,AMD Ryzen 5,8,HDD,2048,15.6,600
+Microsoft,Model-129,Intel i3,16,SSD,512,15.6,850
+Acer,Model-994,Intel i7,16,SSD,256,13.3,2000
+Apple,Model-707,Intel i7,8,SSD,2048,17.3,1500
+Dell,Model-524,Intel i3,4,SSD,256,13.3,1200
+Microsoft,Model-104,Intel i3,16,HDD,2048,17.3,850
+Acer,Model-151,Intel i5,16,HDD,512,14.0,750
+Microsoft,Model-679,AMD Ryzen 5,16,HDD,2048,14.0,1200
+Acer,Model-978,Intel i3,32,HDD,2048,14.0,850
+Asus,Model-436,Intel i7,4,SSD,2048,14.0,500
+Acer,Model-799,AMD Ryzen 5,8,HDD,256,13.3,500
+HP,Model-502,Intel i5,16,HDD,1024,14.0,1200
+Asus,Model-593,Intel i7,8,SSD,1024,14.0,2000
+Microsoft,Model-126,Intel i7,32,HDD,1024,14.0,1000
+Microsoft,Model-623,Intel i7,8,SSD,256,13.3,850
+Apple,Model-707,AMD Ryzen 5,8,SSD,256,14.0,600
+Acer,Model-501,AMD Ryzen 7,32,HDD,1024,14.0,850
+HP,Model-649,AMD Ryzen 5,8,HDD,256,15.6,1200
+Dell,Model-877,Intel i5,32,HDD,512,15.6,1500
+MSI,Model-351,AMD Ryzen 5,32,HDD,512,17.3,500
+Acer,Model-182,AMD Ryzen 5,32,HDD,2048,13.3,2000
+Asus,Model-246,AMD Ryzen 5,32,HDD,512,15.6,750
+Dell,Model-296,AMD Ryzen 7,4,SSD,1024,17.3,850
+Acer,Model-803,Intel i3,16,SSD,2048,17.3,850
+Lenovo,Model-124,AMD Ryzen 5,8,HDD,1024,13.3,2000
+Apple,Model-245,Intel i5,8,SSD,2048,17.3,500
+MSI,Model-463,Intel i5,4,SSD,256,14.0,850
+MSI,Model-959,AMD Ryzen 7,4,SSD,256,15.6,1000
+Dell,Model-395,Intel i7,32,HDD,1024,13.3,2000
+Asus,Model-983,AMD Ryzen 7,32,HDD,1024,15.6,600
+Acer,Model-924,Intel i5,4,SSD,256,15.6,850
+Dell,Model-115,Intel i3,16,SSD,2048,14.0,1500
+Dell,Model-699,Intel i5,16,HDD,1024,14.0,1500
+Apple,Model-627,AMD Ryzen 7,16,SSD,512,15.6,1500
+Asus,Model-240,Intel i5,16,HDD,256,14.0,850
+Apple,Model-498,AMD Ryzen 5,8,HDD,512,13.3,1500
+Apple,Model-453,Intel i5,16,HDD,2048,17.3,500
+Microsoft,Model-551,AMD Ryzen 5,8,HDD,2048,15.6,1000
+HP,Model-980,AMD Ryzen 7,8,HDD,256,13.3,1000
+Acer,Model-113,Intel i7,16,SSD,2048,14.0,600
+Dell,Model-323,Intel i5,16,HDD,256,15.6,600
+Apple,Model-411,AMD Ryzen 7,32,SSD,2048,14.0,2000
+Dell,Model-380,Intel i5,4,HDD,512,17.3,600
+Acer,Model-151,AMD Ryzen 5,32,HDD,2048,17.3,1500
+MSI,Model-839,AMD Ryzen 7,32,SSD,2048,17.3,2000
+Lenovo,Model-706,Intel i7,8,HDD,2048,17.3,750
+Apple,Model-982,AMD Ryzen 5,32,HDD,512,15.6,1500
+Microsoft,Model-582,AMD Ryzen 7,4,HDD,1024,14.0,750
+Apple,Model-566,Intel i5,8,SSD,2048,17.3,750
+MSI,Model-776,AMD Ryzen 7,4,SSD,1024,15.6,1200
+MSI,Model-446,AMD Ryzen 5,16,HDD,2048,17.3,600
+Asus,Model-405,Intel i3,16,HDD,2048,17.3,500
+Dell,Model-241,AMD Ryzen 5,8,HDD,2048,14.0,1000
+Acer,Model-569,Intel i3,16,HDD,256,17.3,1000
+Dell,Model-456,Intel i5,4,SSD,256,17.3,600
+Lenovo,Model-632,Intel i5,16,SSD,512,15.6,1500
+Lenovo,Model-479,Intel i7,32,HDD,512,17.3,500
+Microsoft,Model-885,AMD Ryzen 5,16,HDD,256,17.3,850
+Dell,Model-519,Intel i7,8,SSD,256,13.3,1000
+HP,Model-209,Intel i3,4,HDD,1024,14.0,500
+Dell,Model-778,Intel i3,4,HDD,256,14.0,1500
+MSI,Model-337,AMD Ryzen 5,32,SSD,1024,15.6,2000
+MSI,Model-324,AMD Ryzen 5,4,HDD,2048,17.3,2000
+Apple,Model-439,Intel i3,4,SSD,512,15.6,1200
+HP,Model-184,Intel i7,8,HDD,2048,17.3,850
+HP,Model-656,Intel i5,4,SSD,1024,17.3,600
+HP,Model-647,Intel i5,16,SSD,256,13.3,500
+Acer,Model-475,Intel i5,8,SSD,512,15.6,1200
+Microsoft,Model-642,AMD Ryzen 7,32,SSD,2048,15.6,850
+Apple,Model-479,AMD Ryzen 5,32,SSD,2048,14.0,1500
+HP,Model-854,AMD Ryzen 5,8,HDD,2048,15.6,2000
+Microsoft,Model-937,AMD Ryzen 5,32,HDD,2048,17.3,1200
+Lenovo,Model-528,AMD Ryzen 7,32,HDD,2048,17.3,2000
+HP,Model-651,AMD Ryzen 7,16,SSD,2048,14.0,1200
+Microsoft,Model-917,Intel i7,16,HDD,512,14.0,2000
+Dell,Model-559,Intel i3,16,SSD,512,13.3,500
+Lenovo,Model-721,AMD Ryzen 7,32,SSD,256,15.6,500
+HP,Model-139,AMD Ryzen 5,32,HDD,1024,13.3,850
+Asus,Model-503,AMD Ryzen 5,32,HDD,2048,14.0,600
+Acer,Model-177,AMD Ryzen 7,4,SSD,2048,14.0,1200
+HP,Model-664,AMD Ryzen 7,4,HDD,1024,15.6,850
+Asus,Model-438,AMD Ryzen 5,32,SSD,256,13.3,1000
+Microsoft,Model-132,AMD Ryzen 7,16,SSD,256,17.3,2000
+Microsoft,Model-130,AMD Ryzen 7,4,SSD,512,14.0,850
+Dell,Model-164,Intel i3,4,HDD,256,13.3,850
+MSI,Model-602,Intel i5,32,SSD,256,17.3,1500
+Apple,Model-676,AMD Ryzen 7,32,HDD,2048,15.6,600
+HP,Model-350,AMD Ryzen 7,32,SSD,256,15.6,500
+Acer,Model-416,AMD Ryzen 7,32,HDD,256,17.3,600
+Asus,Model-529,Intel i5,4,SSD,256,15.6,500
+HP,Model-248,AMD Ryzen 7,32,HDD,512,13.3,500
+MSI,Model-631,AMD Ryzen 5,32,SSD,1024,17.3,850
+MSI,Model-712,Intel i3,32,HDD,1024,15.6,1000
+Acer,Model-445,Intel i3,32,HDD,256,15.6,850
+Apple,Model-551,Intel i3,16,SSD,1024,15.6,1200
+HP,Model-563,Intel i3,16,HDD,256,14.0,1500
+Dell,Model-118,AMD Ryzen 7,8,SSD,512,15.6,600
+Asus,Model-690,AMD Ryzen 7,4,SSD,1024,17.3,1500
+Acer,Model-264,AMD Ryzen 5,16,SSD,256,14.0,750
+Microsoft,Model-558,Intel i3,32,SSD,256,17.3,500
+HP,Model-387,AMD Ryzen 5,4,SSD,512,14.0,1500
+Microsoft,Model-482,AMD Ryzen 5,32,SSD,2048,17.3,750
+Microsoft,Model-855,AMD Ryzen 5,16,HDD,512,13.3,1500
+Dell,Model-552,Intel i7,16,SSD,256,14.0,600
+Acer,Model-213,Intel i3,16,HDD,2048,15.6,750
+Microsoft,Model-300,Intel i5,32,SSD,2048,14.0,500
+Dell,Model-285,AMD Ryzen 5,32,HDD,256,15.6,850
+Microsoft,Model-770,Intel i5,32,HDD,2048,14.0,1000
+MSI,Model-757,Intel i3,4,HDD,512,14.0,750
+Apple,Model-283,Intel i7,4,HDD,512,15.6,850
+HP,Model-697,Intel i7,16,SSD,256,15.6,1000
+Apple,Model-641,Intel i7,32,HDD,2048,15.6,1200
+Dell,Model-109,Intel i7,16,SSD,256,13.3,2000
+HP,Model-856,AMD Ryzen 7,16,SSD,256,17.3,1200
+Dell,Model-610,Intel i7,4,SSD,1024,17.3,1000
+Acer,Model-906,AMD Ryzen 5,32,SSD,256,13.3,1500
+Apple,Model-104,AMD Ryzen 5,32,HDD,256,17.3,750
+Microsoft,Model-754,Intel i5,4,HDD,2048,17.3,1200
+HP,Model-173,Intel i7,4,HDD,512,14.0,2000
+Microsoft,Model-315,AMD Ryzen 5,8,SSD,2048,13.3,2000
+Asus,Model-335,Intel i3,16,SSD,256,15.6,750
+Lenovo,Model-116,Intel i5,16,HDD,256,15.6,1500
+MSI,Model-432,AMD Ryzen 5,32,HDD,256,17.3,1500
+MSI,Model-853,AMD Ryzen 5,32,SSD,512,15.6,1500
+Microsoft,Model-372,Intel i3,4,HDD,2048,15.6,750
+Asus,Model-638,Intel i5,8,HDD,256,17.3,850
+Microsoft,Model-252,AMD Ryzen 5,4,SSD,256,14.0,600
+Asus,Model-475,AMD Ryzen 7,32,SSD,2048,15.6,750
+HP,Model-449,AMD Ryzen 5,32,HDD,2048,15.6,500
+Apple,Model-484,Intel i3,8,SSD,512,14.0,500
+Apple,Model-661,Intel i7,8,HDD,256,13.3,2000
+Microsoft,Model-145,AMD Ryzen 5,16,HDD,256,17.3,500
+Apple,Model-531,AMD Ryzen 7,4,SSD,2048,14.0,850
+Microsoft,Model-656,Intel i7,32,SSD,512,14.0,1000
+Dell,Model-135,AMD Ryzen 7,32,SSD,256,15.6,1200
+Lenovo,Model-643,Intel i3,16,SSD,256,17.3,1500
+Dell,Model-330,AMD Ryzen 7,8,SSD,1024,17.3,1500
+Microsoft,Model-545,AMD Ryzen 5,32,SSD,512,17.3,500
+Apple,Model-908,AMD Ryzen 5,32,SSD,256,14.0,750
+Acer,Model-880,Intel i5,16,SSD,256,15.6,1500
+Microsoft,Model-750,AMD Ryzen 5,16,SSD,1024,13.3,1200
+Apple,Model-780,AMD Ryzen 7,32,HDD,1024,13.3,1000
+HP,Model-573,Intel i5,8,HDD,1024,14.0,1200
+Microsoft,Model-938,AMD Ryzen 5,32,HDD,1024,14.0,850
+Acer,Model-963,Intel i7,32,HDD,256,15.6,600
+HP,Model-581,Intel i7,32,HDD,256,13.3,1500
+Microsoft,Model-371,AMD Ryzen 7,16,HDD,512,13.3,850
+Lenovo,Model-497,Intel i5,32,HDD,512,15.6,750
+Microsoft,Model-330,Intel i3,8,HDD,2048,17.3,1200
+Microsoft,Model-478,AMD Ryzen 5,32,SSD,2048,14.0,750
+Microsoft,Model-685,AMD Ryzen 7,16,HDD,512,17.3,1500
+MSI,Model-679,AMD Ryzen 5,8,SSD,256,17.3,750
+Microsoft,Model-952,Intel i7,32,HDD,256,13.3,1200
+Asus,Model-569,Intel i7,32,HDD,512,14.0,500
+Asus,Model-941,AMD Ryzen 7,16,HDD,512,15.6,750
+Microsoft,Model-863,Intel i3,16,HDD,512,17.3,750
+Acer,Model-134,Intel i3,32,SSD,512,13.3,1500
+Asus,Model-737,Intel i5,4,HDD,2048,14.0,600
+Lenovo,Model-320,Intel i3,32,HDD,2048,17.3,850
+Acer,Model-602,AMD Ryzen 7,4,SSD,512,13.3,2000
+Lenovo,Model-157,AMD Ryzen 7,4,SSD,2048,13.3,2000
+MSI,Model-610,AMD Ryzen 5,32,HDD,1024,17.3,1200
+Dell,Model-688,Intel i5,8,SSD,2048,15.6,600
+Lenovo,Model-810,AMD Ryzen 5,16,HDD,2048,13.3,1200
+MSI,Model-368,Intel i5,16,SSD,2048,15.6,1000
+MSI,Model-829,AMD Ryzen 5,32,HDD,512,13.3,1000
+Dell,Model-208,AMD Ryzen 7,4,HDD,1024,13.3,1500
+Microsoft,Model-999,Intel i3,8,SSD,1024,13.3,1200
+Acer,Model-624,AMD Ryzen 7,4,HDD,512,17.3,500
+Apple,Model-970,AMD Ryzen 5,32,HDD,1024,17.3,750
+Dell,Model-840,Intel i5,4,SSD,256,13.3,2000
+Dell,Model-338,AMD Ryzen 5,32,HDD,1024,15.6,1200
+HP,Model-580,Intel i7,32,HDD,2048,13.3,600
+Microsoft,Model-886,Intel i5,32,HDD,1024,17.3,1000
+Microsoft,Model-626,AMD Ryzen 5,8,HDD,256,17.3,1200
+MSI,Model-274,Intel i3,4,SSD,256,14.0,2000
+Apple,Model-412,AMD Ryzen 5,16,HDD,2048,13.3,1200
+HP,Model-819,AMD Ryzen 7,4,HDD,256,17.3,600
+HP,Model-362,Intel i7,8,HDD,512,13.3,1500
+HP,Model-509,AMD Ryzen 7,4,HDD,1024,15.6,1500
+Acer,Model-677,Intel i7,16,SSD,1024,13.3,1000
+Acer,Model-733,Intel i3,4,SSD,256,15.6,850
+Dell,Model-941,Intel i3,8,SSD,2048,14.0,1000
+HP,Model-980,AMD Ryzen 7,4,SSD,2048,17.3,600
+Apple,Model-110,AMD Ryzen 5,16,HDD,2048,13.3,1000
+HP,Model-125,Intel i5,4,HDD,256,14.0,600
+Apple,Model-434,AMD Ryzen 7,8,SSD,256,15.6,1500
+Microsoft,Model-679,AMD Ryzen 5,4,HDD,256,17.3,850
+Apple,Model-127,AMD Ryzen 7,16,SSD,2048,13.3,850
+Microsoft,Model-529,Intel i5,32,SSD,512,17.3,1200
+HP,Model-973,AMD Ryzen 5,32,SSD,2048,13.3,1500
+Lenovo,Model-586,Intel i5,16,HDD,512,15.6,600
+Apple,Model-141,AMD Ryzen 5,8,SSD,512,15.6,500
+Lenovo,Model-511,Intel i7,16,HDD,1024,17.3,1200
+Microsoft,Model-203,Intel i7,4,HDD,1024,13.3,850
+MSI,Model-182,Intel i5,8,HDD,2048,15.6,1000
+Microsoft,Model-400,Intel i5,4,HDD,512,17.3,750
+Lenovo,Model-605,Intel i5,16,SSD,1024,17.3,2000
+HP,Model-141,Intel i3,8,SSD,1024,13.3,1200
+HP,Model-865,AMD Ryzen 5,16,SSD,512,14.0,500
+Microsoft,Model-648,AMD Ryzen 5,32,HDD,256,14.0,500
+Lenovo,Model-583,AMD Ryzen 5,4,SSD,2048,15.6,1000
+Asus,Model-969,Intel i5,4,SSD,512,13.3,1200
+HP,Model-415,Intel i3,32,HDD,256,13.3,1500
+Apple,Model-474,AMD Ryzen 5,4,HDD,1024,14.0,500
+HP,Model-783,AMD Ryzen 7,8,HDD,2048,13.3,1200
+MSI,Model-654,AMD Ryzen 5,8,HDD,512,14.0,600
+Dell,Model-532,AMD Ryzen 5,4,SSD,512,14.0,750
+MSI,Model-531,Intel i3,16,HDD,512,13.3,1500
+Acer,Model-832,Intel i5,4,HDD,512,14.0,750
+Apple,Model-538,Intel i7,32,HDD,512,15.6,1000
+Lenovo,Model-386,Intel i5,4,SSD,1024,13.3,2000
+MSI,Model-796,AMD Ryzen 7,8,HDD,2048,14.0,2000
+Acer,Model-770,AMD Ryzen 5,32,SSD,256,15.6,850
+Apple,Model-801,AMD Ryzen 5,16,HDD,1024,13.3,850
+Lenovo,Model-106,AMD Ryzen 5,4,SSD,256,15.6,850
+Asus,Model-161,AMD Ryzen 5,16,HDD,2048,15.6,2000
+MSI,Model-875,Intel i5,8,HDD,512,14.0,1500
+Asus,Model-670,Intel i5,32,HDD,2048,17.3,850
+MSI,Model-320,AMD Ryzen 7,4,SSD,2048,13.3,750
+Asus,Model-617,Intel i5,32,HDD,1024,13.3,750
+MSI,Model-486,Intel i5,16,HDD,1024,13.3,600
+Asus,Model-308,Intel i7,4,SSD,512,13.3,1000
+Asus,Model-931,AMD Ryzen 5,8,HDD,512,13.3,1200
+Asus,Model-870,AMD Ryzen 5,4,HDD,256,13.3,750
+Asus,Model-404,Intel i3,16,SSD,2048,14.0,1000
+Microsoft,Model-867,Intel i3,16,SSD,2048,14.0,850
+Asus,Model-283,AMD Ryzen 5,4,HDD,256,13.3,600
+Lenovo,Model-465,Intel i5,8,HDD,1024,15.6,1500
+HP,Model-651,Intel i3,4,SSD,256,14.0,1500
+Lenovo,Model-265,Intel i5,32,SSD,2048,17.3,1000
+Microsoft,Model-867,Intel i3,16,SSD,512,13.3,2000
+Microsoft,Model-773,Intel i3,32,SSD,2048,17.3,500
+Dell,Model-138,Intel i5,8,SSD,1024,15.6,1000
+Microsoft,Model-951,Intel i7,8,SSD,256,13.3,2000
+Apple,Model-947,Intel i7,32,SSD,256,13.3,1000
+Apple,Model-879,Intel i5,16,HDD,256,14.0,1500
+Dell,Model-998,AMD Ryzen 5,32,SSD,2048,15.6,750
+Lenovo,Model-840,AMD Ryzen 5,4,SSD,2048,17.3,1200
+MSI,Model-787,AMD Ryzen 7,4,SSD,1024,17.3,1500
+Dell,Model-917,Intel i7,4,HDD,1024,13.3,600
+Dell,Model-469,AMD Ryzen 5,32,SSD,256,15.6,750
+Asus,Model-659,Intel i3,8,HDD,256,15.6,750
+Dell,Model-803,Intel i3,4,HDD,256,14.0,1000
+HP,Model-429,AMD Ryzen 7,16,SSD,256,17.3,1500
+Lenovo,Model-593,AMD Ryzen 5,32,HDD,1024,13.3,1200
+MSI,Model-542,Intel i7,8,HDD,2048,15.6,2000
+Lenovo,Model-575,Intel i7,8,SSD,2048,15.6,2000
+Asus,Model-171,Intel i7,16,HDD,512,15.6,850
+Acer,Model-225,Intel i7,32,HDD,2048,17.3,1000
+Asus,Model-446,Intel i3,16,SSD,1024,13.3,1000
+Apple,Model-312,Intel i7,8,SSD,2048,13.3,1000
+Apple,Model-445,AMD Ryzen 7,16,HDD,2048,17.3,2000
+Acer,Model-661,Intel i3,16,SSD,1024,14.0,1000
+Acer,Model-965,AMD Ryzen 7,32,SSD,2048,15.6,600
+MSI,Model-545,Intel i3,16,HDD,256,15.6,1000
+Apple,Model-257,AMD Ryzen 7,8,HDD,512,15.6,600
+Asus,Model-458,AMD Ryzen 7,32,SSD,512,14.0,600
+Lenovo,Model-483,AMD Ryzen 5,16,HDD,512,15.6,500
+Asus,Model-284,Intel i7,16,SSD,2048,15.6,2000
+Microsoft,Model-158,AMD Ryzen 5,32,SSD,1024,13.3,1500
+HP,Model-889,Intel i3,32,SSD,512,13.3,500
+Dell,Model-843,Intel i5,8,SSD,256,14.0,2000
+Asus,Model-729,Intel i3,32,HDD,512,13.3,600
+Lenovo,Model-815,AMD Ryzen 7,32,HDD,256,14.0,1200
+Lenovo,Model-452,Intel i5,8,SSD,256,15.6,1200
+Microsoft,Model-981,AMD Ryzen 5,32,SSD,512,15.6,750
+MSI,Model-764,Intel i3,4,SSD,256,14.0,1200
+Apple,Model-883,Intel i5,16,HDD,512,17.3,750
+Dell,Model-285,AMD Ryzen 7,8,SSD,512,17.3,750
+Microsoft,Model-180,Intel i7,8,SSD,512,14.0,1200
+Acer,Model-450,Intel i7,8,SSD,256,17.3,500
+MSI,Model-200,Intel i5,8,HDD,512,17.3,850
+Lenovo,Model-922,AMD Ryzen 5,4,SSD,2048,13.3,2000
+MSI,Model-863,Intel i3,16,SSD,2048,15.6,500
+Microsoft,Model-960,Intel i5,16,SSD,1024,17.3,1200
+Asus,Model-453,Intel i5,16,SSD,512,13.3,1000
+Asus,Model-653,Intel i3,16,SSD,2048,15.6,1200
+Acer,Model-328,Intel i3,16,SSD,256,14.0,1500
+Microsoft,Model-125,AMD Ryzen 7,4,HDD,256,17.3,2000
+Microsoft,Model-964,Intel i3,8,HDD,512,13.3,2000
+Asus,Model-994,Intel i7,32,SSD,2048,14.0,1000
+Lenovo,Model-396,AMD Ryzen 7,8,SSD,256,15.6,850
+Acer,Model-141,AMD Ryzen 5,8,HDD,1024,17.3,500
+Apple,Model-533,Intel i5,16,SSD,256,13.3,1200
+Dell,Model-399,Intel i7,16,HDD,512,15.6,600
+Microsoft,Model-821,Intel i5,32,SSD,256,13.3,850
+Dell,Model-357,Intel i3,4,HDD,1024,14.0,600
+HP,Model-316,AMD Ryzen 5,4,HDD,1024,13.3,2000
+Asus,Model-926,Intel i7,8,HDD,512,14.0,600
+Apple,Model-391,AMD Ryzen 7,16,SSD,256,14.0,850
+Microsoft,Model-928,Intel i7,8,HDD,256,17.3,2000
+MSI,Model-915,Intel i7,32,SSD,256,17.3,1200
+HP,Model-473,AMD Ryzen 7,4,HDD,256,14.0,2000
+HP,Model-971,Intel i7,4,SSD,256,15.6,1200
+Microsoft,Model-662,Intel i7,32,SSD,256,14.0,850
+Apple,Model-113,AMD Ryzen 7,8,SSD,256,14.0,850
+Microsoft,Model-934,Intel i5,32,SSD,1024,14.0,600
+Acer,Model-435,AMD Ryzen 7,32,SSD,1024,17.3,850
+Microsoft,Model-877,Intel i3,4,SSD,2048,14.0,1200
+Apple,Model-626,Intel i5,4,SSD,2048,14.0,2000
+HP,Model-780,Intel i3,16,SSD,256,13.3,1000
+Acer,Model-699,Intel i3,32,HDD,256,15.6,750
+MSI,Model-728,Intel i7,8,HDD,1024,17.3,1200
+MSI,Model-585,Intel i5,4,HDD,512,17.3,750
+HP,Model-571,AMD Ryzen 5,32,SSD,256,13.3,500
+Acer,Model-966,AMD Ryzen 7,4,HDD,512,13.3,1000
+Microsoft,Model-538,AMD Ryzen 5,32,HDD,1024,14.0,500
+Dell,Model-477,Intel i3,8,HDD,2048,13.3,850
+Lenovo,Model-600,AMD Ryzen 5,8,HDD,1024,13.3,750
+Dell,Model-437,Intel i3,16,HDD,1024,15.6,1200
+MSI,Model-676,AMD Ryzen 7,8,HDD,256,14.0,1200
+Acer,Model-673,AMD Ryzen 5,8,SSD,1024,14.0,1200
+MSI,Model-884,Intel i7,8,SSD,256,14.0,1000
+MSI,Model-513,Intel i7,4,HDD,256,15.6,1000
+Asus,Model-160,Intel i7,4,HDD,2048,13.3,1200
+Lenovo,Model-642,Intel i5,32,HDD,256,15.6,2000
+Apple,Model-977,Intel i7,4,HDD,256,17.3,850
+Acer,Model-787,AMD Ryzen 5,4,SSD,1024,14.0,600
+Asus,Model-940,Intel i7,32,HDD,512,13.3,850
+HP,Model-603,AMD Ryzen 7,4,HDD,256,14.0,2000
+Apple,Model-423,Intel i5,32,HDD,256,14.0,1500
+MSI,Model-335,Intel i7,32,SSD,2048,14.0,1000
+Dell,Model-419,Intel i3,4,SSD,2048,14.0,1200
+Apple,Model-939,Intel i5,4,SSD,512,14.0,1500
+Microsoft,Model-591,Intel i5,4,SSD,2048,15.6,850
+Dell,Model-826,Intel i7,16,SSD,256,13.3,500
+Apple,Model-549,AMD Ryzen 7,4,SSD,512,17.3,500
+Apple,Model-125,AMD Ryzen 5,8,SSD,1024,17.3,1500
+Lenovo,Model-820,AMD Ryzen 7,8,HDD,256,13.3,1000
+Acer,Model-349,AMD Ryzen 7,16,HDD,256,13.3,1000
+Asus,Model-992,Intel i7,8,SSD,256,14.0,600
+Lenovo,Model-713,AMD Ryzen 5,4,HDD,1024,13.3,850
+MSI,Model-830,AMD Ryzen 7,16,HDD,256,13.3,2000
+Asus,Model-754,Intel i3,8,HDD,2048,14.0,600
+Apple,Model-183,Intel i7,16,HDD,2048,15.6,750
+Asus,Model-512,AMD Ryzen 5,16,HDD,256,15.6,750
+HP,Model-431,Intel i3,32,SSD,2048,14.0,600
+Apple,Model-355,Intel i7,16,HDD,512,13.3,500
+Apple,Model-533,Intel i3,32,SSD,256,13.3,1200
+Apple,Model-375,Intel i5,4,SSD,256,17.3,750
+Microsoft,Model-654,Intel i3,16,HDD,512,14.0,850
+Acer,Model-465,AMD Ryzen 5,32,HDD,1024,15.6,1500
+Dell,Model-773,Intel i3,16,SSD,1024,17.3,1200
+Asus,Model-138,Intel i3,16,HDD,256,13.3,750
+Asus,Model-601,AMD Ryzen 7,16,SSD,512,13.3,600
+MSI,Model-844,Intel i5,8,HDD,2048,17.3,750
+Dell,Model-355,AMD Ryzen 7,8,SSD,512,13.3,1200
+Asus,Model-635,Intel i5,32,SSD,2048,15.6,1500
+Dell,Model-150,Intel i3,4,HDD,512,14.0,750
+Microsoft,Model-940,AMD Ryzen 5,8,HDD,256,13.3,1200
+MSI,Model-721,Intel i5,4,HDD,256,15.6,1200
+MSI,Model-656,AMD Ryzen 7,16,HDD,2048,13.3,750
+Acer,Model-722,Intel i7,32,SSD,1024,15.6,2000
+HP,Model-558,AMD Ryzen 7,8,SSD,256,14.0,750
+Dell,Model-590,Intel i5,16,SSD,2048,13.3,600
+Apple,Model-211,AMD Ryzen 7,32,HDD,512,15.6,1200
+HP,Model-360,Intel i3,32,HDD,512,13.3,1500
+Asus,Model-188,Intel i3,32,HDD,1024,13.3,850
+Asus,Model-582,AMD Ryzen 5,16,SSD,2048,14.0,1000
+Lenovo,Model-633,Intel i3,8,HDD,256,17.3,1000
+MSI,Model-297,AMD Ryzen 5,32,HDD,2048,17.3,750
+Dell,Model-870,Intel i5,16,HDD,1024,14.0,500
+Dell,Model-824,AMD Ryzen 5,32,SSD,256,17.3,1200
+Dell,Model-363,Intel i5,32,HDD,256,15.6,750
+MSI,Model-811,Intel i7,16,SSD,1024,17.3,750
+Lenovo,Model-806,AMD Ryzen 7,32,SSD,256,17.3,600
+Asus,Model-472,Intel i5,32,SSD,2048,13.3,1500
+Lenovo,Model-287,Intel i7,16,HDD,2048,17.3,1200
+Asus,Model-707,AMD Ryzen 7,8,SSD,256,17.3,1000
+Lenovo,Model-190,Intel i3,16,SSD,2048,14.0,750
+Dell,Model-415,Intel i3,32,SSD,256,13.3,1500
+Asus,Model-818,Intel i5,4,SSD,2048,14.0,850
+Lenovo,Model-951,AMD Ryzen 5,32,SSD,512,14.0,2000
+Lenovo,Model-128,Intel i3,32,HDD,1024,17.3,1000
+MSI,Model-298,Intel i5,32,SSD,2048,15.6,1000
+Lenovo,Model-990,AMD Ryzen 7,16,SSD,2048,15.6,1500
+Lenovo,Model-868,AMD Ryzen 7,4,SSD,256,17.3,1200
+Dell,Model-411,Intel i5,16,SSD,1024,17.3,600
+HP,Model-170,Intel i7,16,SSD,2048,13.3,1200
+Microsoft,Model-254,Intel i3,16,HDD,1024,14.0,750
+Dell,Model-717,AMD Ryzen 7,8,SSD,256,13.3,750
+Acer,Model-739,Intel i5,32,HDD,2048,17.3,600
+HP,Model-601,Intel i3,16,SSD,2048,13.3,750
+Dell,Model-480,AMD Ryzen 5,32,HDD,256,17.3,750
+MSI,Model-500,Intel i7,16,HDD,2048,17.3,500
+Lenovo,Model-689,Intel i5,8,HDD,512,17.3,500
+Microsoft,Model-806,AMD Ryzen 5,16,SSD,2048,13.3,750
+Microsoft,Model-858,Intel i5,4,HDD,1024,15.6,500
+HP,Model-336,AMD Ryzen 7,8,SSD,512,13.3,600
+Apple,Model-184,Intel i5,32,SSD,512,14.0,850
+Lenovo,Model-738,Intel i7,16,SSD,1024,13.3,2000
+Asus,Model-978,AMD Ryzen 7,8,SSD,256,15.6,500
+Asus,Model-563,AMD Ryzen 5,8,HDD,512,14.0,850
+MSI,Model-615,AMD Ryzen 5,16,HDD,512,17.3,1000
+Acer,Model-468,Intel i3,8,HDD,512,13.3,600
+Lenovo,Model-343,Intel i3,32,SSD,2048,14.0,850
+Microsoft,Model-334,Intel i3,8,SSD,1024,14.0,500
+Acer,Model-772,Intel i7,16,HDD,2048,13.3,600
+Microsoft,Model-865,Intel i7,16,SSD,2048,13.3,500
+Microsoft,Model-356,AMD Ryzen 7,8,HDD,2048,13.3,2000
+Apple,Model-773,AMD Ryzen 5,4,HDD,1024,14.0,1000
+HP,Model-237,Intel i3,16,HDD,256,13.3,750
+Dell,Model-503,Intel i5,8,HDD,1024,15.6,2000
+Dell,Model-226,AMD Ryzen 5,16,SSD,2048,15.6,1500
+MSI,Model-842,Intel i5,8,SSD,1024,13.3,850
+HP,Model-261,Intel i7,8,SSD,512,15.6,500
+Dell,Model-701,Intel i7,16,SSD,512,17.3,500
+Apple,Model-691,AMD Ryzen 7,8,HDD,512,13.3,2000
+Microsoft,Model-805,Intel i3,32,SSD,1024,14.0,500
+Lenovo,Model-512,Intel i7,32,SSD,2048,17.3,1000
+MSI,Model-142,Intel i5,8,SSD,2048,14.0,2000
+Dell,Model-753,AMD Ryzen 5,4,HDD,512,14.0,500
+MSI,Model-967,Intel i7,4,SSD,512,14.0,2000
+Asus,Model-241,Intel i7,32,SSD,512,15.6,500
+Acer,Model-992,Intel i3,4,SSD,1024,13.3,2000
+Microsoft,Model-184,AMD Ryzen 7,16,HDD,512,13.3,1000
+Apple,Model-942,AMD Ryzen 5,4,SSD,512,17.3,2000
+Lenovo,Model-552,AMD Ryzen 7,16,HDD,256,15.6,500
+Apple,Model-117,AMD Ryzen 5,8,SSD,512,17.3,600
+HP,Model-880,Intel i5,16,SSD,512,14.0,600
+Dell,Model-247,Intel i3,8,SSD,1024,17.3,600
+MSI,Model-349,Intel i3,32,HDD,2048,14.0,1500
+Dell,Model-718,AMD Ryzen 7,8,SSD,512,14.0,500
+Asus,Model-255,AMD Ryzen 5,8,HDD,2048,17.3,750
+MSI,Model-815,Intel i3,4,SSD,256,15.6,1500
+Dell,Model-656,AMD Ryzen 5,16,HDD,1024,14.0,2000
+Dell,Model-894,Intel i3,32,SSD,2048,15.6,1000
+HP,Model-586,Intel i5,16,SSD,512,15.6,500
+Acer,Model-695,Intel i5,8,HDD,2048,15.6,750
+MSI,Model-956,Intel i5,4,SSD,256,13.3,1500
+Acer,Model-259,AMD Ryzen 7,32,SSD,512,15.6,750
+HP,Model-662,Intel i7,4,SSD,2048,15.6,850
+HP,Model-287,AMD Ryzen 7,8,HDD,2048,15.6,1000
+MSI,Model-140,Intel i5,8,SSD,512,17.3,750
+Dell,Model-206,AMD Ryzen 5,16,SSD,256,17.3,750
+HP,Model-616,Intel i3,16,HDD,1024,15.6,500
+Dell,Model-938,Intel i7,16,SSD,256,13.3,600
+MSI,Model-155,AMD Ryzen 5,8,SSD,1024,15.6,500
+HP,Model-516,AMD Ryzen 7,4,SSD,2048,15.6,2000
+Dell,Model-584,Intel i3,8,HDD,256,14.0,1000
+Lenovo,Model-865,Intel i7,32,SSD,256,13.3,1000
+Microsoft,Model-350,AMD Ryzen 7,16,HDD,2048,13.3,1500
+HP,Model-340,AMD Ryzen 5,4,SSD,512,14.0,1500
+Lenovo,Model-947,Intel i5,32,HDD,256,15.6,1500
+Apple,Model-600,Intel i7,8,SSD,512,17.3,1000
+Lenovo,Model-530,Intel i3,4,HDD,256,15.6,750
+Lenovo,Model-280,AMD Ryzen 5,32,HDD,512,13.3,1500
+Dell,Model-537,AMD Ryzen 5,8,HDD,256,14.0,750
+HP,Model-404,Intel i7,32,HDD,256,13.3,2000
+Asus,Model-482,Intel i7,8,HDD,512,15.6,1200
+Dell,Model-524,AMD Ryzen 5,32,SSD,2048,14.0,750
+HP,Model-416,Intel i3,4,HDD,512,17.3,600
+Microsoft,Model-845,Intel i7,16,HDD,1024,13.3,750
+Lenovo,Model-460,Intel i7,32,HDD,256,15.6,2000
+Dell,Model-653,AMD Ryzen 7,8,HDD,1024,15.6,850
+Microsoft,Model-720,AMD Ryzen 5,16,HDD,512,15.6,600
+Apple,Model-711,Intel i5,8,HDD,512,17.3,600
+Microsoft,Model-292,AMD Ryzen 5,8,HDD,256,15.6,500
+Acer,Model-511,Intel i5,4,SSD,1024,14.0,750
+MSI,Model-944,Intel i3,8,SSD,512,17.3,1500
+Lenovo,Model-102,AMD Ryzen 7,16,SSD,512,17.3,1500
+Microsoft,Model-406,Intel i3,4,SSD,2048,15.6,2000
+MSI,Model-762,AMD Ryzen 7,32,SSD,256,13.3,1000
+Apple,Model-645,AMD Ryzen 7,16,SSD,2048,15.6,2000
+HP,Model-675,AMD Ryzen 7,4,SSD,1024,14.0,500
+Asus,Model-567,Intel i3,16,HDD,1024,13.3,1000
+Acer,Model-188,Intel i3,32,SSD,512,15.6,1200
+Asus,Model-159,Intel i3,16,SSD,1024,13.3,2000
+Acer,Model-695,Intel i7,16,SSD,1024,13.3,600
+HP,Model-498,AMD Ryzen 5,4,HDD,2048,13.3,2000
+Asus,Model-693,AMD Ryzen 7,32,HDD,2048,15.6,750
+HP,Model-205,Intel i7,32,SSD,2048,17.3,2000
+HP,Model-747,AMD Ryzen 7,32,SSD,1024,17.3,850
+MSI,Model-101,Intel i7,16,HDD,1024,17.3,1000
+Asus,Model-651,Intel i7,8,SSD,1024,14.0,2000
+Lenovo,Model-984,AMD Ryzen 7,8,SSD,256,14.0,1200
+Acer,Model-550,Intel i5,32,SSD,512,14.0,600
+Asus,Model-153,Intel i7,32,SSD,512,14.0,1500
+Dell,Model-228,Intel i3,16,SSD,256,15.6,850
+Apple,Model-110,Intel i7,16,SSD,2048,14.0,850
+Acer,Model-131,AMD Ryzen 5,8,SSD,256,15.6,1500
+Lenovo,Model-422,Intel i3,32,SSD,2048,14.0,1200
+Lenovo,Model-910,AMD Ryzen 7,4,SSD,256,15.6,2000
+Apple,Model-872,AMD Ryzen 5,32,SSD,256,13.3,1200
+Lenovo,Model-581,Intel i3,4,HDD,512,15.6,850
+Lenovo,Model-731,AMD Ryzen 5,8,SSD,2048,17.3,1500
+Dell,Model-697,AMD Ryzen 5,16,HDD,512,17.3,1200
+Apple,Model-264,Intel i7,8,HDD,256,17.3,600
+MSI,Model-950,Intel i7,4,SSD,2048,17.3,1500
+Dell,Model-424,Intel i7,16,HDD,1024,15.6,850
+Asus,Model-211,Intel i5,32,HDD,2048,17.3,600
+HP,Model-249,AMD Ryzen 5,16,SSD,512,15.6,1000
+MSI,Model-974,Intel i3,4,SSD,2048,15.6,1000
+Acer,Model-365,Intel i5,32,SSD,256,13.3,1200
+Dell,Model-216,Intel i5,16,SSD,256,14.0,2000
+Microsoft,Model-222,Intel i3,32,SSD,256,15.6,850
+Asus,Model-593,AMD Ryzen 5,32,HDD,256,17.3,750
+Acer,Model-148,Intel i7,4,HDD,1024,14.0,750
+Dell,Model-330,Intel i7,32,SSD,2048,17.3,1500
+MSI,Model-896,AMD Ryzen 7,32,HDD,512,17.3,750
+MSI,Model-787,AMD Ryzen 7,32,SSD,1024,15.6,600
+Acer,Model-230,Intel i3,32,HDD,512,13.3,750
+Acer,Model-761,Intel i5,8,SSD,256,15.6,750
+Asus,Model-304,AMD Ryzen 7,8,HDD,256,13.3,2000
+Apple,Model-111,Intel i5,4,SSD,256,17.3,2000
+MSI,Model-643,AMD Ryzen 7,8,SSD,256,17.3,1500
+Acer,Model-914,AMD Ryzen 7,8,SSD,512,17.3,750
+Acer,Model-453,Intel i3,16,SSD,512,17.3,500
+Acer,Model-644,AMD Ryzen 7,16,HDD,512,15.6,1500
+Asus,Model-547,Intel i5,16,SSD,2048,14.0,750
+Apple,Model-356,Intel i3,4,HDD,256,17.3,1200
+HP,Model-515,Intel i7,16,SSD,1024,15.6,2000
+Microsoft,Model-143,AMD Ryzen 5,32,SSD,512,17.3,1000
+Acer,Model-293,AMD Ryzen 5,32,HDD,2048,14.0,1200
+HP,Model-806,AMD Ryzen 5,16,SSD,512,14.0,1500
+Acer,Model-109,Intel i3,16,SSD,512,14.0,1000
+Microsoft,Model-154,Intel i3,32,HDD,512,15.6,750
+Microsoft,Model-677,Intel i7,16,HDD,512,14.0,600
+Lenovo,Model-306,Intel i7,4,HDD,256,13.3,750
+Apple,Model-771,AMD Ryzen 7,32,SSD,1024,13.3,850
+Microsoft,Model-749,Intel i3,8,SSD,1024,15.6,1500
+Acer,Model-425,AMD Ryzen 7,32,HDD,2048,14.0,1000
+MSI,Model-514,AMD Ryzen 7,8,SSD,256,15.6,1200
+Microsoft,Model-554,Intel i7,8,HDD,2048,17.3,1000
+Acer,Model-611,Intel i3,16,SSD,512,15.6,1200
+Lenovo,Model-293,Intel i3,8,HDD,512,14.0,1500
+Acer,Model-119,AMD Ryzen 7,32,HDD,2048,13.3,1000
+Asus,Model-124,AMD Ryzen 5,4,HDD,1024,14.0,500
+HP,Model-618,Intel i3,32,HDD,2048,13.3,850
+MSI,Model-472,AMD Ryzen 5,4,HDD,2048,14.0,750
+Lenovo,Model-931,Intel i3,8,SSD,512,13.3,600
+Lenovo,Model-173,AMD Ryzen 5,8,HDD,1024,15.6,850
+Dell,Model-518,Intel i7,4,SSD,2048,13.3,850
+Apple,Model-448,AMD Ryzen 7,4,HDD,512,15.6,1000
+Dell,Model-895,AMD Ryzen 7,16,HDD,256,17.3,1500
+MSI,Model-496,AMD Ryzen 7,4,SSD,1024,13.3,750
+Dell,Model-552,Intel i5,16,SSD,2048,15.6,500
+HP,Model-208,AMD Ryzen 5,16,SSD,256,13.3,2000
+HP,Model-434,Intel i5,32,SSD,512,13.3,1000
+Asus,Model-602,Intel i5,32,SSD,512,15.6,850
+MSI,Model-791,Intel i7,32,SSD,512,17.3,1500
+Microsoft,Model-460,Intel i5,32,HDD,2048,13.3,500
+Asus,Model-753,Intel i7,16,HDD,256,15.6,750
+Microsoft,Model-921,AMD Ryzen 5,4,SSD,256,17.3,500
+Microsoft,Model-183,AMD Ryzen 7,8,HDD,256,15.6,1000
+Dell,Model-552,Intel i3,4,SSD,2048,13.3,2000
+Asus,Model-520,Intel i5,16,SSD,256,13.3,1000
+Dell,Model-405,AMD Ryzen 5,32,SSD,2048,15.6,500
+Apple,Model-538,AMD Ryzen 5,32,HDD,2048,15.6,1000
+Dell,Model-922,AMD Ryzen 7,16,HDD,256,13.3,2000
+Asus,Model-493,Intel i5,16,SSD,1024,13.3,1000
+Asus,Model-242,AMD Ryzen 5,8,SSD,512,15.6,1000
+Lenovo,Model-494,Intel i3,8,SSD,512,15.6,500
+MSI,Model-401,AMD Ryzen 7,8,SSD,256,14.0,750
+Lenovo,Model-829,AMD Ryzen 5,8,SSD,1024,15.6,1000
+Apple,Model-309,AMD Ryzen 5,16,HDD,512,14.0,1200
+HP,Model-488,Intel i3,8,HDD,256,13.3,500
+Microsoft,Model-601,AMD Ryzen 7,32,SSD,1024,13.3,1200
+Lenovo,Model-583,AMD Ryzen 7,8,HDD,256,15.6,1200
+Apple,Model-859,Intel i7,16,SSD,512,15.6,850
+Apple,Model-732,AMD Ryzen 7,4,SSD,2048,13.3,2000
+Apple,Model-495,AMD Ryzen 7,16,SSD,512,15.6,850
+MSI,Model-967,AMD Ryzen 7,32,HDD,1024,15.6,600
+Lenovo,Model-576,Intel i5,16,HDD,512,14.0,600
+Acer,Model-731,Intel i5,4,HDD,512,13.3,500
+MSI,Model-723,Intel i3,32,HDD,2048,14.0,1200
+Lenovo,Model-615,Intel i3,32,HDD,256,17.3,2000
+Lenovo,Model-672,Intel i3,32,HDD,2048,17.3,2000
+Apple,Model-600,Intel i7,8,SSD,2048,14.0,2000
+Microsoft,Model-675,Intel i5,32,SSD,256,15.6,1000
+Apple,Model-700,AMD Ryzen 5,32,HDD,1024,14.0,750
+Dell,Model-901,Intel i5,16,SSD,512,13.3,500
+Dell,Model-103,Intel i7,16,SSD,512,14.0,500
+Acer,Model-572,Intel i7,16,SSD,1024,13.3,1500
+Microsoft,Model-173,AMD Ryzen 7,4,SSD,1024,15.6,1000
+MSI,Model-276,Intel i3,16,SSD,256,17.3,600
+Lenovo,Model-997,AMD Ryzen 7,32,SSD,256,17.3,1500
+Asus,Model-127,AMD Ryzen 7,8,HDD,512,17.3,850
+Dell,Model-845,Intel i7,32,HDD,512,15.6,850
+Dell,Model-761,AMD Ryzen 5,32,HDD,256,17.3,850
+MSI,Model-180,Intel i7,4,HDD,1024,17.3,850
+Microsoft,Model-261,AMD Ryzen 7,8,SSD,256,17.3,750
+Dell,Model-433,Intel i3,16,SSD,512,14.0,1200
+Lenovo,Model-936,Intel i5,4,SSD,256,15.6,850
+MSI,Model-819,AMD Ryzen 5,8,HDD,256,17.3,600
+Lenovo,Model-269,Intel i3,16,HDD,512,17.3,1500
+HP,Model-809,Intel i5,32,HDD,256,14.0,1200
+Dell,Model-657,AMD Ryzen 5,4,HDD,512,14.0,500
+Lenovo,Model-474,AMD Ryzen 5,4,HDD,1024,17.3,1200
+Microsoft,Model-395,AMD Ryzen 7,4,SSD,256,14.0,1000
+Lenovo,Model-386,Intel i7,4,HDD,2048,13.3,1500
+Asus,Model-504,Intel i3,16,SSD,1024,17.3,1000
+Dell,Model-866,AMD Ryzen 7,16,HDD,512,14.0,1500
+Dell,Model-418,Intel i3,8,HDD,1024,14.0,500
+Dell,Model-300,AMD Ryzen 5,32,SSD,1024,13.3,2000
+Asus,Model-814,Intel i5,4,SSD,256,17.3,2000
+Dell,Model-774,Intel i7,16,SSD,1024,13.3,1500
+Microsoft,Model-395,AMD Ryzen 5,8,SSD,256,15.6,750
+Apple,Model-608,AMD Ryzen 5,32,SSD,256,13.3,2000
+Microsoft,Model-229,Intel i7,8,HDD,512,15.6,1500
+MSI,Model-434,AMD Ryzen 7,32,SSD,1024,15.6,750
+Acer,Model-692,AMD Ryzen 7,4,HDD,2048,13.3,1000
+Apple,Model-605,AMD Ryzen 5,32,SSD,1024,17.3,2000
+HP,Model-272,AMD Ryzen 7,8,HDD,512,14.0,1000
+Acer,Model-410,AMD Ryzen 7,16,SSD,2048,17.3,2000
+Apple,Model-231,AMD Ryzen 5,8,SSD,1024,13.3,1200
+Acer,Model-448,Intel i7,32,HDD,2048,14.0,1500
+Microsoft,Model-375,Intel i7,32,HDD,2048,13.3,850
+Apple,Model-568,Intel i5,16,HDD,1024,13.3,1200
+Acer,Model-841,Intel i3,32,SSD,2048,17.3,750
+HP,Model-930,Intel i5,4,HDD,512,14.0,2000
+Asus,Model-247,AMD Ryzen 5,16,HDD,256,13.3,1200
+Microsoft,Model-891,AMD Ryzen 5,4,HDD,256,14.0,750
+Apple,Model-207,Intel i3,32,SSD,1024,17.3,2000
+Acer,Model-464,Intel i7,4,SSD,256,15.6,600
+Lenovo,Model-604,Intel i7,16,HDD,512,14.0,850
+Microsoft,Model-483,AMD Ryzen 7,4,SSD,256,13.3,750
+Lenovo,Model-141,Intel i5,16,SSD,256,14.0,1000
+HP,Model-552,Intel i5,4,HDD,2048,15.6,1500
+Acer,Model-653,AMD Ryzen 7,8,SSD,1024,13.3,850
+Apple,Model-157,AMD Ryzen 7,16,SSD,1024,15.6,1500
+Acer,Model-953,Intel i7,4,HDD,512,17.3,750
+Apple,Model-252,AMD Ryzen 7,16,SSD,2048,15.6,2000
+Acer,Model-165,Intel i7,32,HDD,1024,15.6,500
+MSI,Model-481,Intel i5,4,HDD,1024,14.0,1200
+Asus,Model-563,Intel i7,8,HDD,2048,17.3,1500
+Apple,Model-159,AMD Ryzen 7,32,SSD,512,15.6,750
+Apple,Model-794,Intel i5,8,SSD,512,13.3,1500
+Asus,Model-161,Intel i3,32,HDD,1024,15.6,750
+Dell,Model-872,Intel i5,8,SSD,1024,15.6,1200
+MSI,Model-951,Intel i7,4,SSD,1024,17.3,750
+HP,Model-937,Intel i5,4,SSD,2048,15.6,1500
+Dell,Model-419,Intel i7,16,SSD,256,15.6,1200
+Microsoft,Model-766,AMD Ryzen 5,32,SSD,256,17.3,850
+Lenovo,Model-164,AMD Ryzen 5,32,SSD,512,13.3,600
+Microsoft,Model-691,AMD Ryzen 7,4,HDD,2048,17.3,600
+Lenovo,Model-124,Intel i7,16,HDD,1024,17.3,500
+Lenovo,Model-166,Intel i5,32,SSD,1024,14.0,600
+Acer,Model-309,Intel i7,32,HDD,256,17.3,850
+Acer,Model-776,Intel i3,32,SSD,1024,13.3,600
+Apple,Model-165,Intel i7,32,SSD,1024,15.6,2000
+HP,Model-165,AMD Ryzen 7,4,SSD,256,17.3,600
+Dell,Model-688,Intel i3,4,HDD,512,15.6,500
+HP,Model-831,AMD Ryzen 5,16,SSD,1024,17.3,600
+Apple,Model-191,AMD Ryzen 7,8,HDD,256,17.3,750
+Dell,Model-436,AMD Ryzen 7,4,HDD,2048,14.0,750
+Apple,Model-226,Intel i7,16,HDD,2048,15.6,2000
+Apple,Model-236,Intel i7,32,SSD,256,17.3,750
+HP,Model-480,AMD Ryzen 5,4,SSD,256,15.6,850
+Asus,Model-166,Intel i7,16,SSD,1024,13.3,1200
+MSI,Model-279,AMD Ryzen 7,8,HDD,256,14.0,1200
+Microsoft,Model-606,Intel i5,32,SSD,1024,15.6,2000
+Lenovo,Model-109,AMD Ryzen 5,8,HDD,256,14.0,1200
+Lenovo,Model-472,AMD Ryzen 7,32,HDD,1024,15.6,500
+MSI,Model-406,Intel i5,16,SSD,256,13.3,500
+MSI,Model-620,Intel i5,8,SSD,2048,13.3,500
+Dell,Model-803,AMD Ryzen 5,8,SSD,1024,13.3,2000
+Acer,Model-924,Intel i3,8,SSD,2048,14.0,500
+Microsoft,Model-326,AMD Ryzen 7,8,HDD,512,14.0,600
+Asus,Model-110,Intel i7,32,HDD,2048,13.3,2000
+MSI,Model-351,AMD Ryzen 7,32,HDD,2048,17.3,850
+Lenovo,Model-333,Intel i7,8,HDD,2048,17.3,1000
+Asus,Model-594,Intel i5,16,HDD,1024,13.3,1000
+Lenovo,Model-281,Intel i5,4,HDD,256,13.3,500
+MSI,Model-638,Intel i3,32,SSD,512,15.6,1000
+Apple,Model-314,Intel i5,8,SSD,256,14.0,1500
+Acer,Model-556,Intel i3,4,SSD,2048,15.6,1500
+MSI,Model-735,Intel i3,32,SSD,2048,13.3,600
+Lenovo,Model-355,Intel i3,16,SSD,512,17.3,850
+Lenovo,Model-982,Intel i5,16,SSD,512,13.3,2000
+Lenovo,Model-685,AMD Ryzen 5,32,HDD,512,15.6,600
+Lenovo,Model-102,Intel i7,16,SSD,1024,15.6,1500
+Acer,Model-339,AMD Ryzen 5,32,HDD,256,17.3,750
+HP,Model-567,AMD Ryzen 5,8,HDD,2048,15.6,1200
+Lenovo,Model-157,AMD Ryzen 7,16,SSD,2048,14.0,1500
+Dell,Model-602,AMD Ryzen 7,16,HDD,512,17.3,2000
+Microsoft,Model-439,Intel i7,4,HDD,512,15.6,750
+HP,Model-277,AMD Ryzen 7,4,HDD,512,15.6,750
+Lenovo,Model-154,Intel i3,32,HDD,512,14.0,500
+MSI,Model-563,AMD Ryzen 7,32,SSD,1024,15.6,1500
+Apple,Model-898,Intel i3,16,HDD,2048,17.3,1500
+MSI,Model-487,AMD Ryzen 5,8,SSD,1024,13.3,850
+Microsoft,Model-822,AMD Ryzen 7,32,SSD,256,13.3,600
+Dell,Model-642,AMD Ryzen 5,4,SSD,1024,14.0,1500
+Asus,Model-767,Intel i7,16,HDD,512,14.0,1200
+Apple,Model-944,AMD Ryzen 5,4,SSD,2048,15.6,1500
+Asus,Model-823,Intel i3,32,HDD,256,13.3,750
+Dell,Model-686,Intel i7,4,HDD,1024,15.6,1000
+Microsoft,Model-262,Intel i3,16,HDD,512,17.3,600
+HP,Model-716,Intel i7,8,SSD,512,17.3,750
+Lenovo,Model-448,AMD Ryzen 5,8,SSD,2048,17.3,500
+Apple,Model-684,Intel i7,32,SSD,2048,17.3,850
+Apple,Model-571,Intel i3,4,SSD,256,14.0,2000
+Dell,Model-149,AMD Ryzen 7,32,HDD,512,14.0,850
+Asus,Model-329,AMD Ryzen 7,16,SSD,256,17.3,1000
+Dell,Model-460,Intel i5,16,SSD,1024,17.3,1000
+Asus,Model-823,AMD Ryzen 7,8,HDD,512,17.3,1200
+Acer,Model-408,AMD Ryzen 7,16,SSD,256,15.6,2000
+Acer,Model-129,Intel i7,8,HDD,256,17.3,1200
+Acer,Model-315,Intel i7,16,SSD,512,15.6,1200
+Dell,Model-635,Intel i5,8,SSD,1024,15.6,850
+Acer,Model-818,Intel i5,8,HDD,512,15.6,1200
+Microsoft,Model-397,Intel i7,8,SSD,1024,13.3,750
+Acer,Model-651,AMD Ryzen 5,16,HDD,2048,17.3,1000
+Apple,Model-560,AMD Ryzen 5,8,HDD,1024,15.6,1200
+HP,Model-104,Intel i3,4,HDD,256,13.3,500
+Asus,Model-891,AMD Ryzen 5,16,HDD,256,13.3,2000
+Asus,Model-755,AMD Ryzen 5,4,HDD,512,15.6,850
+Dell,Model-639,Intel i7,32,SSD,256,13.3,1500
+Asus,Model-325,AMD Ryzen 5,4,SSD,512,13.3,2000
+Lenovo,Model-357,Intel i7,8,HDD,1024,14.0,500
+Acer,Model-989,Intel i5,32,SSD,1024,15.6,1000
+Dell,Model-800,Intel i5,8,SSD,1024,14.0,1200
+HP,Model-772,Intel i3,8,HDD,2048,17.3,1500
+MSI,Model-319,AMD Ryzen 7,8,SSD,256,13.3,600
+Lenovo,Model-612,Intel i7,16,SSD,2048,17.3,600
+Microsoft,Model-819,Intel i7,8,SSD,512,14.0,2000
+Asus,Model-954,Intel i3,8,HDD,256,15.6,750
+MSI,Model-963,Intel i3,8,HDD,1024,13.3,850
+Dell,Model-369,Intel i5,32,HDD,2048,14.0,850
+MSI,Model-128,AMD Ryzen 7,8,HDD,2048,15.6,1200
